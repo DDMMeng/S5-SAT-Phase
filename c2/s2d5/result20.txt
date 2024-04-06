@@ -1,0 +1,3382 @@
+
+40========================================================================================
+c Solving Time(ms): 10.743
+s SATISFIABLE
+c Solving Time(ms): 12.127
+s SATISFIABLE
+c Solving Time(ms): 10.814
+s SATISFIABLE
+c Solving Time(ms): 11.11
+s SATISFIABLE
+c Solving Time(ms): 9.963
+s SATISFIABLE
+c Solving Time(ms): 10.914
+s SATISFIABLE
+c Solving Time(ms): 11.497
+s SATISFIABLE
+c Solving Time(ms): 10.962
+s SATISFIABLE
+c Solving Time(ms): 10.736
+s SATISFIABLE
+c Solving Time(ms): 11.024
+s SATISFIABLE
+c Solving Time(ms): 11.552
+s SATISFIABLE
+c Solving Time(ms): 9.6
+s SATISFIABLE
+c Solving Time(ms): 11.205
+s SATISFIABLE
+c Solving Time(ms): 11.22
+s SATISFIABLE
+c Solving Time(ms): 13.234
+s SATISFIABLE
+c Solving Time(ms): 11.803
+s SATISFIABLE
+c Solving Time(ms): 11.033
+s SATISFIABLE
+c Solving Time(ms): 10.911
+s SATISFIABLE
+c Solving Time(ms): 10.666
+s SATISFIABLE
+c Solving Time(ms): 11.122
+s SATISFIABLE
+c Solving Time(ms): 11.168
+s SATISFIABLE
+c Solving Time(ms): 17.538
+s SATISFIABLE
+c Solving Time(ms): 10.889
+s SATISFIABLE
+c Solving Time(ms): 11.161
+s SATISFIABLE
+c Solving Time(ms): 10.816
+s SATISFIABLE
+c Solving Time(ms): 11.015
+s SATISFIABLE
+c Solving Time(ms): 17.522
+s SATISFIABLE
+c Solving Time(ms): 10.837
+s SATISFIABLE
+c Solving Time(ms): 11.561
+s SATISFIABLE
+c Solving Time(ms): 11.121
+s SATISFIABLE
+c Solving Time(ms): 9.431
+s SATISFIABLE
+c Solving Time(ms): 10.006
+s SATISFIABLE
+c Solving Time(ms): 10.791
+s SATISFIABLE
+c Solving Time(ms): 10.723
+s SATISFIABLE
+c Solving Time(ms): 11.147
+s SATISFIABLE
+c Solving Time(ms): 10.744
+s SATISFIABLE
+c Solving Time(ms): 12.813
+s SATISFIABLE
+c Solving Time(ms): 10.933
+s SATISFIABLE
+c Solving Time(ms): 11.352
+s SATISFIABLE
+c Solving Time(ms): 10.493
+s SATISFIABLE
+c Solving Time(ms): 9.824
+s SATISFIABLE
+c Solving Time(ms): 14.091
+s SATISFIABLE
+c Solving Time(ms): 12.342
+s SATISFIABLE
+c Solving Time(ms): 10.84
+s SATISFIABLE
+c Solving Time(ms): 9.716
+s SATISFIABLE
+c Solving Time(ms): 12.384
+s SATISFIABLE
+c Solving Time(ms): 10.933
+s SATISFIABLE
+c Solving Time(ms): 10.593
+s SATISFIABLE
+c Solving Time(ms): 10.666
+s SATISFIABLE
+c Solving Time(ms): 11.039
+s SATISFIABLE
+c Solving Time(ms): 10.89
+s SATISFIABLE
+c Solving Time(ms): 12.379
+s SATISFIABLE
+c Solving Time(ms): 11.216
+s SATISFIABLE
+c Solving Time(ms): 11.319
+s SATISFIABLE
+c Solving Time(ms): 10.651
+s SATISFIABLE
+c Solving Time(ms): 10.662
+s SATISFIABLE
+c Solving Time(ms): 11.079
+s SATISFIABLE
+c Solving Time(ms): 17.947
+s SATISFIABLE
+c Solving Time(ms): 11.261
+s SATISFIABLE
+c Solving Time(ms): 10.797
+s SATISFIABLE
+c Solving Time(ms): 10.946
+s SATISFIABLE
+c Solving Time(ms): 10.844
+s SATISFIABLE
+c Solving Time(ms): 11.039
+s SATISFIABLE
+c Solving Time(ms): 10.953
+s SATISFIABLE
+c Solving Time(ms): 12.19
+s SATISFIABLE
+c Solving Time(ms): 12.199
+s SATISFIABLE
+c Solving Time(ms): 10.909
+s SATISFIABLE
+c Solving Time(ms): 11.406
+s SATISFIABLE
+c Solving Time(ms): 11.208
+s SATISFIABLE
+c Solving Time(ms): 12.518
+s SATISFIABLE
+c Solving Time(ms): 11.256
+s SATISFIABLE
+c Solving Time(ms): 11.085
+s SATISFIABLE
+c Solving Time(ms): 10.955
+s SATISFIABLE
+c Solving Time(ms): 10.644
+s SATISFIABLE
+c Solving Time(ms): 10.687
+s SATISFIABLE
+c Solving Time(ms): 10.887
+s SATISFIABLE
+c Solving Time(ms): 13.946
+s SATISFIABLE
+c Solving Time(ms): 10.786
+s SATISFIABLE
+c Solving Time(ms): 12.092
+s SATISFIABLE
+c Solving Time(ms): 11.41
+s SATISFIABLE
+50========================================================================================
+c Solving Time(ms): 12.421
+s SATISFIABLE
+c Solving Time(ms): 12.19
+s SATISFIABLE
+c Solving Time(ms): 12.488
+s SATISFIABLE
+c Solving Time(ms): 11.233
+s SATISFIABLE
+c Solving Time(ms): 10.417
+s SATISFIABLE
+c Solving Time(ms): 11.142
+s SATISFIABLE
+c Solving Time(ms): 12.495
+s SATISFIABLE
+c Solving Time(ms): 12.199
+s SATISFIABLE
+c Solving Time(ms): 12.858
+s SATISFIABLE
+c Solving Time(ms): 12.521
+s SATISFIABLE
+c Solving Time(ms): 10.733
+s SATISFIABLE
+c Solving Time(ms): 11.976
+s SATISFIABLE
+c Solving Time(ms): 12.117
+s SATISFIABLE
+c Solving Time(ms): 12.632
+s SATISFIABLE
+c Solving Time(ms): 10.441
+s SATISFIABLE
+c Solving Time(ms): 12.266
+s SATISFIABLE
+c Solving Time(ms): 11.995
+s SATISFIABLE
+c Solving Time(ms): 12.429
+s SATISFIABLE
+c Solving Time(ms): 12.693
+s SATISFIABLE
+c Solving Time(ms): 11.981
+s SATISFIABLE
+c Solving Time(ms): 10.359
+s SATISFIABLE
+c Solving Time(ms): 12.176
+s SATISFIABLE
+c Solving Time(ms): 11.877
+s SATISFIABLE
+c Solving Time(ms): 12.308
+s SATISFIABLE
+c Solving Time(ms): 11.125
+s SATISFIABLE
+c Solving Time(ms): 12.605
+s SATISFIABLE
+c Solving Time(ms): 11.062
+s SATISFIABLE
+c Solving Time(ms): 12.349
+s SATISFIABLE
+c Solving Time(ms): 13.247
+s SATISFIABLE
+c Solving Time(ms): 11.2
+s SATISFIABLE
+c Solving Time(ms): 12.511
+s SATISFIABLE
+c Solving Time(ms): 10.804
+s SATISFIABLE
+c Solving Time(ms): 12.18
+s SATISFIABLE
+c Solving Time(ms): 10.178
+s SATISFIABLE
+c Solving Time(ms): 12.593
+s SATISFIABLE
+c Solving Time(ms): 11.065
+s SATISFIABLE
+c Solving Time(ms): 10.796
+s SATISFIABLE
+c Solving Time(ms): 11
+s SATISFIABLE
+c Solving Time(ms): 10.511
+s SATISFIABLE
+c Solving Time(ms): 11.875
+s SATISFIABLE
+c Solving Time(ms): 12.061
+s SATISFIABLE
+c Solving Time(ms): 11.428
+s SATISFIABLE
+c Solving Time(ms): 11.829
+s SATISFIABLE
+c Solving Time(ms): 12.422
+s SATISFIABLE
+c Solving Time(ms): 12.371
+s SATISFIABLE
+c Solving Time(ms): 12.39
+s SATISFIABLE
+c Solving Time(ms): 12.207
+s SATISFIABLE
+c Solving Time(ms): 12.211
+s SATISFIABLE
+c Solving Time(ms): 12.236
+s SATISFIABLE
+c Solving Time(ms): 12.283
+s SATISFIABLE
+c Solving Time(ms): 11.832
+s SATISFIABLE
+c Solving Time(ms): 27.5
+s SATISFIABLE
+c Solving Time(ms): 13.599
+s SATISFIABLE
+c Solving Time(ms): 10.737
+s SATISFIABLE
+c Solving Time(ms): 11.531
+s SATISFIABLE
+c Solving Time(ms): 13.209
+s SATISFIABLE
+c Solving Time(ms): 12.223
+s SATISFIABLE
+c Solving Time(ms): 11.14
+s SATISFIABLE
+c Solving Time(ms): 11.92
+s SATISFIABLE
+c Solving Time(ms): 12.698
+s SATISFIABLE
+c Solving Time(ms): 12.203
+s SATISFIABLE
+c Solving Time(ms): 11.159
+s SATISFIABLE
+c Solving Time(ms): 11.28
+s SATISFIABLE
+c Solving Time(ms): 11.192
+s SATISFIABLE
+c Solving Time(ms): 12.9
+s SATISFIABLE
+c Solving Time(ms): 11.344
+s SATISFIABLE
+c Solving Time(ms): 44.984
+s SATISFIABLE
+c Solving Time(ms): 12.967
+s SATISFIABLE
+c Solving Time(ms): 12.841
+s SATISFIABLE
+c Solving Time(ms): 11.892
+s SATISFIABLE
+c Solving Time(ms): 10.587
+s SATISFIABLE
+c Solving Time(ms): 10.956
+s SATISFIABLE
+c Solving Time(ms): 12.53
+s SATISFIABLE
+c Solving Time(ms): 12.423
+s SATISFIABLE
+c Solving Time(ms): 12.064
+s SATISFIABLE
+c Solving Time(ms): 11.432
+s SATISFIABLE
+c Solving Time(ms): 10.979
+s SATISFIABLE
+c Solving Time(ms): 11.661
+s SATISFIABLE
+c Solving Time(ms): 11.904
+s SATISFIABLE
+c Solving Time(ms): 12.244
+s SATISFIABLE
+60========================================================================================
+c Solving Time(ms): 11.843
+s SATISFIABLE
+c Solving Time(ms): 11.79
+s SATISFIABLE
+c Solving Time(ms): 13.768
+s SATISFIABLE
+c Solving Time(ms): 12.306
+s SATISFIABLE
+c Solving Time(ms): 11.941
+s SATISFIABLE
+c Solving Time(ms): 11.957
+s SATISFIABLE
+c Solving Time(ms): 11.149
+s SATISFIABLE
+c Solving Time(ms): 13.828
+s SATISFIABLE
+c Solving Time(ms): 13.718
+s SATISFIABLE
+c Solving Time(ms): 12.317
+s SATISFIABLE
+c Solving Time(ms): 13.671
+s SATISFIABLE
+c Solving Time(ms): 13.79
+s SATISFIABLE
+c Solving Time(ms): 11.516
+s SATISFIABLE
+c Solving Time(ms): 12.752
+s SATISFIABLE
+c Solving Time(ms): 14.95
+s SATISFIABLE
+c Solving Time(ms): 12.268
+s SATISFIABLE
+c Solving Time(ms): 12.189
+s SATISFIABLE
+c Solving Time(ms): 13.95
+s SATISFIABLE
+c Solving Time(ms): 12.259
+s SATISFIABLE
+c Solving Time(ms): 14.206
+s SATISFIABLE
+c Solving Time(ms): 12.391
+s SATISFIABLE
+c Solving Time(ms): 12.582
+s SATISFIABLE
+c Solving Time(ms): 13.692
+s SATISFIABLE
+c Solving Time(ms): 14.077
+s SATISFIABLE
+c Solving Time(ms): 13.951
+s SATISFIABLE
+c Solving Time(ms): 11.479
+s SATISFIABLE
+c Solving Time(ms): 13.491
+s SATISFIABLE
+c Solving Time(ms): 12.283
+s SATISFIABLE
+c Solving Time(ms): 12.621
+s SATISFIABLE
+c Solving Time(ms): 12.363
+s SATISFIABLE
+c Solving Time(ms): 12.771
+s SATISFIABLE
+c Solving Time(ms): 13.17
+s SATISFIABLE
+c Solving Time(ms): 15.007
+s SATISFIABLE
+c Solving Time(ms): 12.039
+s SATISFIABLE
+c Solving Time(ms): 11.917
+s SATISFIABLE
+c Solving Time(ms): 13.876
+s SATISFIABLE
+c Solving Time(ms): 11.585
+s SATISFIABLE
+c Solving Time(ms): 12.644
+s SATISFIABLE
+c Solving Time(ms): 13.471
+s SATISFIABLE
+c Solving Time(ms): 12.141
+s SATISFIABLE
+c Solving Time(ms): 12.492
+s SATISFIABLE
+c Solving Time(ms): 12.089
+s SATISFIABLE
+c Solving Time(ms): 12.182
+s SATISFIABLE
+c Solving Time(ms): 11.559
+s SATISFIABLE
+c Solving Time(ms): 12.211
+s SATISFIABLE
+c Solving Time(ms): 13.044
+s SATISFIABLE
+c Solving Time(ms): 12.102
+s SATISFIABLE
+c Solving Time(ms): 13.65
+s SATISFIABLE
+c Solving Time(ms): 14.156
+s SATISFIABLE
+c Solving Time(ms): 12.093
+s SATISFIABLE
+c Solving Time(ms): 12.009
+s SATISFIABLE
+c Solving Time(ms): 15.055
+s SATISFIABLE
+c Solving Time(ms): 12.205
+s SATISFIABLE
+c Solving Time(ms): 12.221
+s SATISFIABLE
+c Solving Time(ms): 11.974
+s SATISFIABLE
+c Solving Time(ms): 11.767
+s SATISFIABLE
+c Solving Time(ms): 11.818
+s SATISFIABLE
+c Solving Time(ms): 13.84
+s SATISFIABLE
+c Solving Time(ms): 11.331
+s SATISFIABLE
+c Solving Time(ms): 12.476
+s SATISFIABLE
+c Solving Time(ms): 12.997
+s SATISFIABLE
+c Solving Time(ms): 12.346
+s SATISFIABLE
+c Solving Time(ms): 13.334
+s SATISFIABLE
+c Solving Time(ms): 13.284
+s SATISFIABLE
+c Solving Time(ms): 13.268
+s SATISFIABLE
+c Solving Time(ms): 14.202
+s SATISFIABLE
+c Solving Time(ms): 12.448
+s SATISFIABLE
+c Solving Time(ms): 12.559
+s SATISFIABLE
+c Solving Time(ms): 12.016
+s SATISFIABLE
+c Solving Time(ms): 12.188
+s SATISFIABLE
+c Solving Time(ms): 11.645
+s SATISFIABLE
+c Solving Time(ms): 15.611
+s SATISFIABLE
+c Solving Time(ms): 11.937
+s SATISFIABLE
+c Solving Time(ms): 13.202
+s SATISFIABLE
+c Solving Time(ms): 11.462
+s SATISFIABLE
+c Solving Time(ms): 13.626
+s SATISFIABLE
+c Solving Time(ms): 13.393
+s SATISFIABLE
+c Solving Time(ms): 11.877
+s SATISFIABLE
+c Solving Time(ms): 12.057
+s SATISFIABLE
+c Solving Time(ms): 12.447
+s SATISFIABLE
+70========================================================================================
+c Solving Time(ms): 13.718
+s SATISFIABLE
+c Solving Time(ms): 13.868
+s SATISFIABLE
+c Solving Time(ms): 14.325
+s SATISFIABLE
+c Solving Time(ms): 13.273
+s SATISFIABLE
+c Solving Time(ms): 12.303
+s SATISFIABLE
+c Solving Time(ms): 13.159
+s SATISFIABLE
+c Solving Time(ms): 14.478
+s SATISFIABLE
+c Solving Time(ms): 14.935
+s SATISFIABLE
+c Solving Time(ms): 13.988
+s SATISFIABLE
+c Solving Time(ms): 13.377
+s SATISFIABLE
+c Solving Time(ms): 13.734
+s SATISFIABLE
+c Solving Time(ms): 14.324
+s SATISFIABLE
+c Solving Time(ms): 13.549
+s SATISFIABLE
+c Solving Time(ms): 12.68
+s SATISFIABLE
+c Solving Time(ms): 12.873
+s SATISFIABLE
+c Solving Time(ms): 15.179
+s SATISFIABLE
+c Solving Time(ms): 13.391
+s SATISFIABLE
+c Solving Time(ms): 12.573
+s SATISFIABLE
+c Solving Time(ms): 13.569
+s SATISFIABLE
+c Solving Time(ms): 14.567
+s SATISFIABLE
+c Solving Time(ms): 12.796
+s SATISFIABLE
+c Solving Time(ms): 12.367
+s SATISFIABLE
+c Solving Time(ms): 13.536
+s SATISFIABLE
+c Solving Time(ms): 14.271
+s SATISFIABLE
+c Solving Time(ms): 12.934
+s SATISFIABLE
+c Solving Time(ms): 13.302
+s SATISFIABLE
+c Solving Time(ms): 14.31
+s SATISFIABLE
+c Solving Time(ms): 12.761
+s SATISFIABLE
+c Solving Time(ms): 12.695
+s SATISFIABLE
+c Solving Time(ms): 13.455
+s SATISFIABLE
+c Solving Time(ms): 13.094
+s SATISFIABLE
+c Solving Time(ms): 14.652
+s SATISFIABLE
+c Solving Time(ms): 13.73
+s SATISFIABLE
+c Solving Time(ms): 12.781
+s SATISFIABLE
+c Solving Time(ms): 12.954
+s SATISFIABLE
+c Solving Time(ms): 13.508
+s SATISFIABLE
+c Solving Time(ms): 13.366
+s SATISFIABLE
+c Solving Time(ms): 14.171
+s SATISFIABLE
+c Solving Time(ms): 14.056
+s SATISFIABLE
+c Solving Time(ms): 14.889
+s SATISFIABLE
+c Solving Time(ms): 13.346
+s SATISFIABLE
+c Solving Time(ms): 13.977
+s SATISFIABLE
+c Solving Time(ms): 12.381
+s SATISFIABLE
+c Solving Time(ms): 16.641
+s SATISFIABLE
+c Solving Time(ms): 13.574
+s SATISFIABLE
+c Solving Time(ms): 17.617
+s SATISFIABLE
+c Solving Time(ms): 15.824
+s SATISFIABLE
+c Solving Time(ms): 14.098
+s SATISFIABLE
+c Solving Time(ms): 13.194
+s SATISFIABLE
+c Solving Time(ms): 14.668
+s SATISFIABLE
+c Solving Time(ms): 15.153
+s SATISFIABLE
+c Solving Time(ms): 15.507
+s SATISFIABLE
+c Solving Time(ms): 13.991
+s SATISFIABLE
+c Solving Time(ms): 13.73
+s SATISFIABLE
+c Solving Time(ms): 12.647
+s SATISFIABLE
+c Solving Time(ms): 14.701
+s SATISFIABLE
+c Solving Time(ms): 13.197
+s SATISFIABLE
+c Solving Time(ms): 16.117
+s SATISFIABLE
+c Solving Time(ms): 13.83
+s SATISFIABLE
+c Solving Time(ms): 13.804
+s SATISFIABLE
+c Solving Time(ms): 13.034
+s SATISFIABLE
+c Solving Time(ms): 13.167
+s SATISFIABLE
+c Solving Time(ms): 15.245
+s SATISFIABLE
+c Solving Time(ms): 12.896
+s SATISFIABLE
+c Solving Time(ms): 13.376
+s SATISFIABLE
+c Solving Time(ms): 13.086
+s SATISFIABLE
+c Solving Time(ms): 13.936
+s SATISFIABLE
+c Solving Time(ms): 14.784
+s SATISFIABLE
+c Solving Time(ms): 13.126
+s SATISFIABLE
+c Solving Time(ms): 12.702
+s SATISFIABLE
+c Solving Time(ms): 16.714
+s SATISFIABLE
+c Solving Time(ms): 13.013
+s SATISFIABLE
+c Solving Time(ms): 12.803
+s SATISFIABLE
+c Solving Time(ms): 14.076
+s SATISFIABLE
+c Solving Time(ms): 16.394
+s SATISFIABLE
+c Solving Time(ms): 13.843
+s SATISFIABLE
+c Solving Time(ms): 13.622
+s SATISFIABLE
+c Solving Time(ms): 13.887
+s SATISFIABLE
+c Solving Time(ms): 12.921
+s SATISFIABLE
+c Solving Time(ms): 13.577
+s SATISFIABLE
+80========================================================================================
+c Solving Time(ms): 13.775
+s SATISFIABLE
+c Solving Time(ms): 14.176
+s SATISFIABLE
+c Solving Time(ms): 13.571
+s SATISFIABLE
+c Solving Time(ms): 14.951
+s SATISFIABLE
+c Solving Time(ms): 14.959
+s SATISFIABLE
+c Solving Time(ms): 15.065
+s SATISFIABLE
+c Solving Time(ms): 16.148
+s SATISFIABLE
+c Solving Time(ms): 14.872
+s SATISFIABLE
+c Solving Time(ms): 15.413
+s SATISFIABLE
+c Solving Time(ms): 14.184
+s SATISFIABLE
+c Solving Time(ms): 16.287
+s SATISFIABLE
+c Solving Time(ms): 18.618
+s SATISFIABLE
+c Solving Time(ms): 18.409
+s SATISFIABLE
+c Solving Time(ms): 18.103
+s SATISFIABLE
+c Solving Time(ms): 15.489
+s SATISFIABLE
+c Solving Time(ms): 15.08
+s SATISFIABLE
+c Solving Time(ms): 16.843
+s SATISFIABLE
+c Solving Time(ms): 17.58
+s SATISFIABLE
+c Solving Time(ms): 14.892
+s SATISFIABLE
+c Solving Time(ms): 17.727
+s SATISFIABLE
+c Solving Time(ms): 16.826
+s SATISFIABLE
+c Solving Time(ms): 14.1
+s SATISFIABLE
+c Solving Time(ms): 14.21
+s SATISFIABLE
+c Solving Time(ms): 14.747
+s SATISFIABLE
+c Solving Time(ms): 14.504
+s SATISFIABLE
+c Solving Time(ms): 13.998
+s SATISFIABLE
+c Solving Time(ms): 14.608
+s SATISFIABLE
+c Solving Time(ms): 15.137
+s SATISFIABLE
+c Solving Time(ms): 14.784
+s SATISFIABLE
+c Solving Time(ms): 16.212
+s SATISFIABLE
+c Solving Time(ms): 13.963
+s SATISFIABLE
+c Solving Time(ms): 15.502
+s SATISFIABLE
+c Solving Time(ms): 14.302
+s SATISFIABLE
+c Solving Time(ms): 13.708
+s SATISFIABLE
+c Solving Time(ms): 15.857
+s SATISFIABLE
+c Solving Time(ms): 15.674
+s SATISFIABLE
+c Solving Time(ms): 19.518
+s SATISFIABLE
+c Solving Time(ms): 14.614
+s SATISFIABLE
+c Solving Time(ms): 13.662
+s SATISFIABLE
+c Solving Time(ms): 16.485
+s SATISFIABLE
+c Solving Time(ms): 15.076
+s SATISFIABLE
+c Solving Time(ms): 14.549
+s SATISFIABLE
+c Solving Time(ms): 13.809
+s SATISFIABLE
+c Solving Time(ms): 15.004
+s SATISFIABLE
+c Solving Time(ms): 14.05
+s SATISFIABLE
+c Solving Time(ms): 13.851
+s SATISFIABLE
+c Solving Time(ms): 14.316
+s SATISFIABLE
+c Solving Time(ms): 14.488
+s SATISFIABLE
+c Solving Time(ms): 14.162
+s SATISFIABLE
+c Solving Time(ms): 14.165
+s SATISFIABLE
+c Solving Time(ms): 13.883
+s SATISFIABLE
+c Solving Time(ms): 13.482
+s SATISFIABLE
+c Solving Time(ms): 16.253
+s SATISFIABLE
+c Solving Time(ms): 15.13
+s SATISFIABLE
+c Solving Time(ms): 14.217
+s SATISFIABLE
+c Solving Time(ms): 14.794
+s SATISFIABLE
+c Solving Time(ms): 14.173
+s SATISFIABLE
+c Solving Time(ms): 15.232
+s SATISFIABLE
+c Solving Time(ms): 13.847
+s SATISFIABLE
+c Solving Time(ms): 17.713
+s SATISFIABLE
+c Solving Time(ms): 14.111
+s SATISFIABLE
+c Solving Time(ms): 15.484
+s SATISFIABLE
+c Solving Time(ms): 15.24
+s SATISFIABLE
+c Solving Time(ms): 15.064
+s SATISFIABLE
+c Solving Time(ms): 14.778
+s SATISFIABLE
+c Solving Time(ms): 14.153
+s SATISFIABLE
+c Solving Time(ms): 14.818
+s SATISFIABLE
+c Solving Time(ms): 14.542
+s SATISFIABLE
+c Solving Time(ms): 14.394
+s SATISFIABLE
+c Solving Time(ms): 15.451
+s SATISFIABLE
+c Solving Time(ms): 14.829
+s SATISFIABLE
+c Solving Time(ms): 14.215
+s SATISFIABLE
+c Solving Time(ms): 13.976
+s SATISFIABLE
+c Solving Time(ms): 13.808
+s SATISFIABLE
+c Solving Time(ms): 14.789
+s SATISFIABLE
+c Solving Time(ms): 20.15
+s SATISFIABLE
+c Solving Time(ms): 14.435
+s SATISFIABLE
+c Solving Time(ms): 17.075
+s SATISFIABLE
+c Solving Time(ms): 13.092
+s SATISFIABLE
+c Solving Time(ms): 13.799
+s SATISFIABLE
+90========================================================================================
+c Solving Time(ms): 17.812
+s SATISFIABLE
+c Solving Time(ms): 16.017
+s SATISFIABLE
+c Solving Time(ms): 16.547
+s SATISFIABLE
+c Solving Time(ms): 16.441
+s SATISFIABLE
+c Solving Time(ms): 18.126
+s SATISFIABLE
+c Solving Time(ms): 16.087
+s SATISFIABLE
+c Solving Time(ms): 16.418
+s SATISFIABLE
+c Solving Time(ms): 22.489
+s SATISFIABLE
+c Solving Time(ms): 15.347
+s SATISFIABLE
+c Solving Time(ms): 14.328
+s SATISFIABLE
+c Solving Time(ms): 17.363
+s SATISFIABLE
+c Solving Time(ms): 16.29
+s SATISFIABLE
+c Solving Time(ms): 18.751
+s SATISFIABLE
+c Solving Time(ms): 15.296
+s SATISFIABLE
+c Solving Time(ms): 15.215
+s SATISFIABLE
+c Solving Time(ms): 16.895
+s SATISFIABLE
+c Solving Time(ms): 15.487
+s SATISFIABLE
+c Solving Time(ms): 15.522
+s SATISFIABLE
+c Solving Time(ms): 16.026
+s SATISFIABLE
+c Solving Time(ms): 16.655
+s SATISFIABLE
+c Solving Time(ms): 15.309
+s SATISFIABLE
+c Solving Time(ms): 17.032
+s SATISFIABLE
+c Solving Time(ms): 14.684
+s SATISFIABLE
+c Solving Time(ms): 15.658
+s SATISFIABLE
+c Solving Time(ms): 16.479
+s SATISFIABLE
+c Solving Time(ms): 16.078
+s SATISFIABLE
+c Solving Time(ms): 18.681
+s SATISFIABLE
+c Solving Time(ms): 15.917
+s SATISFIABLE
+c Solving Time(ms): 17.159
+s SATISFIABLE
+c Solving Time(ms): 15.135
+s SATISFIABLE
+c Solving Time(ms): 15.545
+s SATISFIABLE
+c Solving Time(ms): 16.017
+s SATISFIABLE
+c Solving Time(ms): 15.136
+s SATISFIABLE
+c Solving Time(ms): 16.952
+s SATISFIABLE
+c Solving Time(ms): 15.262
+s SATISFIABLE
+c Solving Time(ms): 15.631
+s SATISFIABLE
+c Solving Time(ms): 16.463
+s SATISFIABLE
+c Solving Time(ms): 17.728
+s SATISFIABLE
+c Solving Time(ms): 16.808
+s SATISFIABLE
+c Solving Time(ms): 23.884
+s SATISFIABLE
+c Solving Time(ms): 17.805
+s SATISFIABLE
+c Solving Time(ms): 16.362
+s SATISFIABLE
+c Solving Time(ms): 15.899
+s SATISFIABLE
+c Solving Time(ms): 15.352
+s SATISFIABLE
+c Solving Time(ms): 21.659
+s SATISFIABLE
+c Solving Time(ms): 17.495
+s SATISFIABLE
+c Solving Time(ms): 15.371
+s SATISFIABLE
+c Solving Time(ms): 14.555
+s SATISFIABLE
+c Solving Time(ms): 15.294
+s SATISFIABLE
+c Solving Time(ms): 15.854
+s SATISFIABLE
+c Solving Time(ms): 16.297
+s SATISFIABLE
+c Solving Time(ms): 17.56
+s SATISFIABLE
+c Solving Time(ms): 15.717
+s SATISFIABLE
+c Solving Time(ms): 16.145
+s SATISFIABLE
+c Solving Time(ms): 15.339
+s SATISFIABLE
+c Solving Time(ms): 17.312
+s SATISFIABLE
+c Solving Time(ms): 15.436
+s SATISFIABLE
+c Solving Time(ms): 16.085
+s SATISFIABLE
+c Solving Time(ms): 15.856
+s SATISFIABLE
+c Solving Time(ms): 16.083
+s SATISFIABLE
+c Solving Time(ms): 16.411
+s SATISFIABLE
+c Solving Time(ms): 16.5
+s SATISFIABLE
+c Solving Time(ms): 16
+s SATISFIABLE
+c Solving Time(ms): 15.528
+s SATISFIABLE
+c Solving Time(ms): 17.556
+s SATISFIABLE
+c Solving Time(ms): 16.64
+s SATISFIABLE
+c Solving Time(ms): 23.47
+s SATISFIABLE
+c Solving Time(ms): 18.486
+s SATISFIABLE
+c Solving Time(ms): 16.066
+s SATISFIABLE
+c Solving Time(ms): 14.562
+s SATISFIABLE
+c Solving Time(ms): 14.184
+s SATISFIABLE
+c Solving Time(ms): 19.995
+s SATISFIABLE
+c Solving Time(ms): 17.136
+s SATISFIABLE
+c Solving Time(ms): 15.648
+s SATISFIABLE
+c Solving Time(ms): 14.861
+s SATISFIABLE
+c Solving Time(ms): 14.948
+s SATISFIABLE
+c Solving Time(ms): 14.988
+s SATISFIABLE
+c Solving Time(ms): 15.194
+s SATISFIABLE
+c Solving Time(ms): 18.071
+s SATISFIABLE
+c Solving Time(ms): 15.968
+s SATISFIABLE
+100========================================================================================
+c Solving Time(ms): 19.234
+s SATISFIABLE
+c Solving Time(ms): 16.814
+s SATISFIABLE
+c Solving Time(ms): 19.247
+s SATISFIABLE
+c Solving Time(ms): 17.335
+s SATISFIABLE
+c Solving Time(ms): 18.179
+s SATISFIABLE
+c Solving Time(ms): 21.984
+s SATISFIABLE
+c Solving Time(ms): 16.42
+s SATISFIABLE
+c Solving Time(ms): 18.067
+s SATISFIABLE
+c Solving Time(ms): 16.258
+s SATISFIABLE
+c Solving Time(ms): 20.885
+s SATISFIABLE
+c Solving Time(ms): 18.708
+s SATISFIABLE
+c Solving Time(ms): 19.493
+s SATISFIABLE
+c Solving Time(ms): 18.96
+s SATISFIABLE
+c Solving Time(ms): 20.486
+s SATISFIABLE
+c Solving Time(ms): 27.247
+s SATISFIABLE
+c Solving Time(ms): 16.872
+s SATISFIABLE
+c Solving Time(ms): 22.917
+s SATISFIABLE
+c Solving Time(ms): 17.698
+s SATISFIABLE
+c Solving Time(ms): 18.196
+s SATISFIABLE
+c Solving Time(ms): 17.229
+s SATISFIABLE
+c Solving Time(ms): 16.619
+s SATISFIABLE
+c Solving Time(ms): 17.494
+s SATISFIABLE
+c Solving Time(ms): 17.119
+s SATISFIABLE
+c Solving Time(ms): 19.682
+s SATISFIABLE
+c Solving Time(ms): 18.39
+s SATISFIABLE
+c Solving Time(ms): 16.77
+s SATISFIABLE
+c Solving Time(ms): 23.652
+s SATISFIABLE
+c Solving Time(ms): 17.75
+s SATISFIABLE
+c Solving Time(ms): 17.914
+s SATISFIABLE
+c Solving Time(ms): 18.431
+s SATISFIABLE
+c Solving Time(ms): 18.229
+s SATISFIABLE
+c Solving Time(ms): 20.403
+s SATISFIABLE
+c Solving Time(ms): 19.092
+s SATISFIABLE
+c Solving Time(ms): 24.14
+s SATISFIABLE
+c Solving Time(ms): 17.098
+s SATISFIABLE
+c Solving Time(ms): 19.408
+s SATISFIABLE
+c Solving Time(ms): 20.032
+s SATISFIABLE
+c Solving Time(ms): 18.348
+s SATISFIABLE
+c Solving Time(ms): 19.296
+s SATISFIABLE
+c Solving Time(ms): 17.241
+s SATISFIABLE
+c Solving Time(ms): 17.023
+s SATISFIABLE
+c Solving Time(ms): 17.315
+s SATISFIABLE
+c Solving Time(ms): 18.893
+s SATISFIABLE
+c Solving Time(ms): 21.714
+s SATISFIABLE
+c Solving Time(ms): 19.574
+s SATISFIABLE
+c Solving Time(ms): 17.484
+s SATISFIABLE
+c Solving Time(ms): 17.884
+s SATISFIABLE
+c Solving Time(ms): 17.758
+s SATISFIABLE
+c Solving Time(ms): 16.623
+s SATISFIABLE
+c Solving Time(ms): 22.544
+s SATISFIABLE
+c Solving Time(ms): 18.268
+s SATISFIABLE
+c Solving Time(ms): 19.336
+s SATISFIABLE
+c Solving Time(ms): 17.178
+s SATISFIABLE
+c Solving Time(ms): 15.633
+s SATISFIABLE
+c Solving Time(ms): 19.574
+s SATISFIABLE
+c Solving Time(ms): 18.087
+s SATISFIABLE
+c Solving Time(ms): 17.094
+s SATISFIABLE
+c Solving Time(ms): 19.478
+s SATISFIABLE
+c Solving Time(ms): 21.707
+s SATISFIABLE
+c Solving Time(ms): 16.721
+s SATISFIABLE
+c Solving Time(ms): 19.343
+s SATISFIABLE
+c Solving Time(ms): 21.033
+s SATISFIABLE
+c Solving Time(ms): 18.1
+s SATISFIABLE
+c Solving Time(ms): 19.832
+s SATISFIABLE
+c Solving Time(ms): 18.104
+s SATISFIABLE
+c Solving Time(ms): 16.807
+s SATISFIABLE
+c Solving Time(ms): 17.714
+s SATISFIABLE
+c Solving Time(ms): 16.883
+s SATISFIABLE
+c Solving Time(ms): 21.547
+s SATISFIABLE
+c Solving Time(ms): 17.616
+s SATISFIABLE
+c Solving Time(ms): 18.462
+s SATISFIABLE
+c Solving Time(ms): 19.553
+s SATISFIABLE
+c Solving Time(ms): 21.608
+s SATISFIABLE
+c Solving Time(ms): 17.388
+s SATISFIABLE
+c Solving Time(ms): 18.607
+s SATISFIABLE
+c Solving Time(ms): 18.248
+s SATISFIABLE
+c Solving Time(ms): 17.225
+s SATISFIABLE
+c Solving Time(ms): 16.886
+s SATISFIABLE
+c Solving Time(ms): 17.626
+s SATISFIABLE
+c Solving Time(ms): 20.949
+s SATISFIABLE
+110========================================================================================
+c Solving Time(ms): 19.99
+s SATISFIABLE
+c Solving Time(ms): 18.601
+s SATISFIABLE
+c Solving Time(ms): 27.338
+s SATISFIABLE
+c Solving Time(ms): 25.771
+s SATISFIABLE
+c Solving Time(ms): 18.677
+s SATISFIABLE
+c Solving Time(ms): 19.074
+s SATISFIABLE
+c Solving Time(ms): 20.494
+s SATISFIABLE
+c Solving Time(ms): 20.652
+s SATISFIABLE
+c Solving Time(ms): 22.27
+s SATISFIABLE
+c Solving Time(ms): 21.163
+s SATISFIABLE
+c Solving Time(ms): 19.231
+s SATISFIABLE
+c Solving Time(ms): 19.172
+s SATISFIABLE
+c Solving Time(ms): 18.729
+s SATISFIABLE
+c Solving Time(ms): 19.487
+s SATISFIABLE
+c Solving Time(ms): 20.793
+s SATISFIABLE
+c Solving Time(ms): 18.524
+s SATISFIABLE
+c Solving Time(ms): 19.943
+s SATISFIABLE
+c Solving Time(ms): 21.552
+s SATISFIABLE
+c Solving Time(ms): 20.827
+s SATISFIABLE
+c Solving Time(ms): 19.722
+s SATISFIABLE
+c Solving Time(ms): 19.709
+s SATISFIABLE
+c Solving Time(ms): 21.159
+s SATISFIABLE
+c Solving Time(ms): 22.058
+s SATISFIABLE
+c Solving Time(ms): 18.072
+s SATISFIABLE
+c Solving Time(ms): 17.926
+s SATISFIABLE
+c Solving Time(ms): 22.69
+s SATISFIABLE
+c Solving Time(ms): 19.368
+s SATISFIABLE
+c Solving Time(ms): 18.554
+s SATISFIABLE
+c Solving Time(ms): 19.063
+s SATISFIABLE
+c Solving Time(ms): 22.054
+s SATISFIABLE
+c Solving Time(ms): 17.954
+s SATISFIABLE
+c Solving Time(ms): 18.064
+s SATISFIABLE
+c Solving Time(ms): 23.83
+s SATISFIABLE
+c Solving Time(ms): 18.63
+s SATISFIABLE
+c Solving Time(ms): 20.628
+s SATISFIABLE
+c Solving Time(ms): 19.34
+s SATISFIABLE
+c Solving Time(ms): 20.155
+s SATISFIABLE
+c Solving Time(ms): 19.613
+s SATISFIABLE
+c Solving Time(ms): 20.386
+s SATISFIABLE
+c Solving Time(ms): 18.948
+s SATISFIABLE
+c Solving Time(ms): 19.436
+s SATISFIABLE
+c Solving Time(ms): 23.614
+s SATISFIABLE
+c Solving Time(ms): 23.395
+s SATISFIABLE
+c Solving Time(ms): 19.278
+s SATISFIABLE
+c Solving Time(ms): 18.747
+s SATISFIABLE
+c Solving Time(ms): 21.664
+s SATISFIABLE
+c Solving Time(ms): 19.878
+s SATISFIABLE
+c Solving Time(ms): 19.123
+s SATISFIABLE
+c Solving Time(ms): 21.722
+s SATISFIABLE
+c Solving Time(ms): 24.158
+s SATISFIABLE
+c Solving Time(ms): 18.064
+s SATISFIABLE
+c Solving Time(ms): 19.247
+s SATISFIABLE
+c Solving Time(ms): 20.659
+s SATISFIABLE
+c Solving Time(ms): 26.714
+s SATISFIABLE
+c Solving Time(ms): 21.851
+s SATISFIABLE
+c Solving Time(ms): 18.01
+s SATISFIABLE
+c Solving Time(ms): 30.415
+s SATISFIABLE
+c Solving Time(ms): 18.043
+s SATISFIABLE
+c Solving Time(ms): 22.529
+s SATISFIABLE
+c Solving Time(ms): 19.519
+s SATISFIABLE
+c Solving Time(ms): 21.227
+s SATISFIABLE
+c Solving Time(ms): 21.66
+s SATISFIABLE
+c Solving Time(ms): 19.356
+s SATISFIABLE
+c Solving Time(ms): 24.685
+s SATISFIABLE
+c Solving Time(ms): 18.493
+s SATISFIABLE
+c Solving Time(ms): 19.404
+s SATISFIABLE
+c Solving Time(ms): 20.178
+s SATISFIABLE
+c Solving Time(ms): 23.86
+s SATISFIABLE
+c Solving Time(ms): 21.16
+s SATISFIABLE
+c Solving Time(ms): 21.814
+s SATISFIABLE
+c Solving Time(ms): 20.97
+s SATISFIABLE
+c Solving Time(ms): 21.916
+s SATISFIABLE
+c Solving Time(ms): 22.996
+s SATISFIABLE
+c Solving Time(ms): 25.178
+s SATISFIABLE
+c Solving Time(ms): 21.554
+s SATISFIABLE
+c Solving Time(ms): 20.896
+s SATISFIABLE
+c Solving Time(ms): 18.305
+s SATISFIABLE
+c Solving Time(ms): 18.889
+s SATISFIABLE
+c Solving Time(ms): 18.073
+s SATISFIABLE
+c Solving Time(ms): 25.915
+s SATISFIABLE
+120========================================================================================
+c Solving Time(ms): 31.509
+s SATISFIABLE
+c Solving Time(ms): 21.102
+s SATISFIABLE
+c Solving Time(ms): 22.374
+s SATISFIABLE
+c Solving Time(ms): 23.149
+s SATISFIABLE
+c Solving Time(ms): 22.944
+s SATISFIABLE
+c Solving Time(ms): 27.531
+s SATISFIABLE
+c Solving Time(ms): 21.571
+s SATISFIABLE
+c Solving Time(ms): 20.585
+s SATISFIABLE
+c Solving Time(ms): 19.772
+s SATISFIABLE
+c Solving Time(ms): 25.033
+s SATISFIABLE
+c Solving Time(ms): 23.25
+s SATISFIABLE
+c Solving Time(ms): 24.306
+s SATISFIABLE
+c Solving Time(ms): 26.577
+s SATISFIABLE
+c Solving Time(ms): 35.144
+s SATISFIABLE
+c Solving Time(ms): 21.885
+s SATISFIABLE
+c Solving Time(ms): 23.422
+s SATISFIABLE
+c Solving Time(ms): 24.663
+s SATISFIABLE
+c Solving Time(ms): 22.127
+s SATISFIABLE
+c Solving Time(ms): 25.297
+s SATISFIABLE
+c Solving Time(ms): 19.887
+s SATISFIABLE
+c Solving Time(ms): 24.291
+s SATISFIABLE
+c Solving Time(ms): 22.744
+s SATISFIABLE
+c Solving Time(ms): 23.485
+s SATISFIABLE
+c Solving Time(ms): 39.349
+s SATISFIABLE
+c Solving Time(ms): 23.356
+s SATISFIABLE
+c Solving Time(ms): 24.595
+s SATISFIABLE
+c Solving Time(ms): 20.487
+s SATISFIABLE
+c Solving Time(ms): 25.679
+s SATISFIABLE
+c Solving Time(ms): 25.117
+s SATISFIABLE
+c Solving Time(ms): 22.604
+s SATISFIABLE
+c Solving Time(ms): 20.175
+s SATISFIABLE
+c Solving Time(ms): 23.333
+s SATISFIABLE
+c Solving Time(ms): 20.764
+s SATISFIABLE
+c Solving Time(ms): 21.654
+s SATISFIABLE
+c Solving Time(ms): 28.789
+s SATISFIABLE
+c Solving Time(ms): 21.864
+s SATISFIABLE
+c Solving Time(ms): 22.742
+s SATISFIABLE
+c Solving Time(ms): 20.093
+s SATISFIABLE
+c Solving Time(ms): 27.993
+s SATISFIABLE
+c Solving Time(ms): 22.294
+s SATISFIABLE
+c Solving Time(ms): 21.228
+s SATISFIABLE
+c Solving Time(ms): 20.838
+s SATISFIABLE
+c Solving Time(ms): 26.877
+s SATISFIABLE
+c Solving Time(ms): 25.982
+s SATISFIABLE
+c Solving Time(ms): 22.902
+s SATISFIABLE
+c Solving Time(ms): 22.382
+s SATISFIABLE
+c Solving Time(ms): 25.898
+s SATISFIABLE
+c Solving Time(ms): 22.672
+s SATISFIABLE
+c Solving Time(ms): 22.886
+s SATISFIABLE
+c Solving Time(ms): 22.783
+s SATISFIABLE
+c Solving Time(ms): 22.158
+s SATISFIABLE
+c Solving Time(ms): 20.094
+s SATISFIABLE
+c Solving Time(ms): 29.805
+s SATISFIABLE
+c Solving Time(ms): 30.148
+s SATISFIABLE
+c Solving Time(ms): 26.714
+s SATISFIABLE
+c Solving Time(ms): 21.783
+s SATISFIABLE
+c Solving Time(ms): 20.368
+s SATISFIABLE
+c Solving Time(ms): 25.216
+s SATISFIABLE
+c Solving Time(ms): 28.213
+s SATISFIABLE
+c Solving Time(ms): 19.914
+s SATISFIABLE
+c Solving Time(ms): 26.085
+s SATISFIABLE
+c Solving Time(ms): 26.537
+s SATISFIABLE
+c Solving Time(ms): 20.697
+s SATISFIABLE
+c Solving Time(ms): 29.466
+s SATISFIABLE
+c Solving Time(ms): 21.027
+s SATISFIABLE
+c Solving Time(ms): 21.047
+s SATISFIABLE
+c Solving Time(ms): 23.233
+s SATISFIABLE
+c Solving Time(ms): 21.095
+s SATISFIABLE
+c Solving Time(ms): 20.545
+s SATISFIABLE
+c Solving Time(ms): 22.017
+s SATISFIABLE
+c Solving Time(ms): 25.286
+s SATISFIABLE
+c Solving Time(ms): 27.934
+s SATISFIABLE
+c Solving Time(ms): 22.121
+s SATISFIABLE
+c Solving Time(ms): 21.663
+s SATISFIABLE
+c Solving Time(ms): 20.158
+s SATISFIABLE
+c Solving Time(ms): 23.286
+s SATISFIABLE
+c Solving Time(ms): 24.523
+s SATISFIABLE
+c Solving Time(ms): 20.438
+s SATISFIABLE
+c Solving Time(ms): 19.629
+s SATISFIABLE
+c Solving Time(ms): 21.58
+s SATISFIABLE
+130========================================================================================
+c Solving Time(ms): 25.117
+s SATISFIABLE
+c Solving Time(ms): 23.673
+s SATISFIABLE
+c Solving Time(ms): 24.53
+s SATISFIABLE
+c Solving Time(ms): 22.49
+s SATISFIABLE
+c Solving Time(ms): 29.817
+s SATISFIABLE
+c Solving Time(ms): 27.381
+s SATISFIABLE
+c Solving Time(ms): 26.872
+s SATISFIABLE
+c Solving Time(ms): 29.264
+s SATISFIABLE
+c Solving Time(ms): 27.242
+s SATISFIABLE
+c Solving Time(ms): 24.272
+s SATISFIABLE
+c Solving Time(ms): 26.71
+s SATISFIABLE
+c Solving Time(ms): 23.572
+s SATISFIABLE
+c Solving Time(ms): 24.372
+s SATISFIABLE
+c Solving Time(ms): 23.998
+s SATISFIABLE
+c Solving Time(ms): 24.208
+s SATISFIABLE
+c Solving Time(ms): 32.687
+s SATISFIABLE
+c Solving Time(ms): 25.231
+s SATISFIABLE
+c Solving Time(ms): 25.42
+s SATISFIABLE
+c Solving Time(ms): 27.565
+s SATISFIABLE
+c Solving Time(ms): 24.983
+s SATISFIABLE
+c Solving Time(ms): 36.898
+s SATISFIABLE
+c Solving Time(ms): 24.827
+s SATISFIABLE
+c Solving Time(ms): 23.164
+s SATISFIABLE
+c Solving Time(ms): 28.369
+s SATISFIABLE
+c Solving Time(ms): 26.214
+s SATISFIABLE
+c Solving Time(ms): 26.866
+s SATISFIABLE
+c Solving Time(ms): 22.354
+s SATISFIABLE
+c Solving Time(ms): 26.893
+s SATISFIABLE
+c Solving Time(ms): 23.143
+s SATISFIABLE
+c Solving Time(ms): 38.192
+s SATISFIABLE
+c Solving Time(ms): 25.497
+s SATISFIABLE
+c Solving Time(ms): 26.187
+s SATISFIABLE
+c Solving Time(ms): 24.524
+s SATISFIABLE
+c Solving Time(ms): 28.597
+s SATISFIABLE
+c Solving Time(ms): 32.857
+s SATISFIABLE
+c Solving Time(ms): 29.393
+s SATISFIABLE
+c Solving Time(ms): 24.392
+s SATISFIABLE
+c Solving Time(ms): 61.738
+s SATISFIABLE
+c Solving Time(ms): 33.694
+s SATISFIABLE
+c Solving Time(ms): 33.027
+s SATISFIABLE
+c Solving Time(ms): 33.56
+s SATISFIABLE
+c Solving Time(ms): 22.665
+s SATISFIABLE
+c Solving Time(ms): 27.084
+s SATISFIABLE
+c Solving Time(ms): 31.116
+s SATISFIABLE
+c Solving Time(ms): 26.286
+s SATISFIABLE
+c Solving Time(ms): 26.742
+s SATISFIABLE
+c Solving Time(ms): 28.855
+s SATISFIABLE
+c Solving Time(ms): 23.867
+s SATISFIABLE
+c Solving Time(ms): 26.523
+s SATISFIABLE
+c Solving Time(ms): 23.211
+s SATISFIABLE
+c Solving Time(ms): 31.318
+s SATISFIABLE
+c Solving Time(ms): 23.02
+s SATISFIABLE
+c Solving Time(ms): 25.211
+s SATISFIABLE
+c Solving Time(ms): 22.653
+s SATISFIABLE
+c Solving Time(ms): 24.938
+s SATISFIABLE
+c Solving Time(ms): 27.988
+s SATISFIABLE
+c Solving Time(ms): 25.864
+s SATISFIABLE
+c Solving Time(ms): 35.319
+s SATISFIABLE
+c Solving Time(ms): 22.5
+s SATISFIABLE
+c Solving Time(ms): 26.015
+s SATISFIABLE
+c Solving Time(ms): 33.732
+s SATISFIABLE
+c Solving Time(ms): 25.483
+s SATISFIABLE
+c Solving Time(ms): 23.696
+s SATISFIABLE
+c Solving Time(ms): 37.568
+s SATISFIABLE
+c Solving Time(ms): 23.536
+s SATISFIABLE
+c Solving Time(ms): 23.124
+s SATISFIABLE
+c Solving Time(ms): 25.289
+s SATISFIABLE
+c Solving Time(ms): 24.224
+s SATISFIABLE
+c Solving Time(ms): 29.129
+s SATISFIABLE
+c Solving Time(ms): 25.217
+s SATISFIABLE
+c Solving Time(ms): 23.967
+s SATISFIABLE
+c Solving Time(ms): 23.333
+s SATISFIABLE
+c Solving Time(ms): 23.414
+s SATISFIABLE
+c Solving Time(ms): 29.218
+s SATISFIABLE
+c Solving Time(ms): 34.011
+s SATISFIABLE
+c Solving Time(ms): 23.222
+s SATISFIABLE
+c Solving Time(ms): 27.297
+s SATISFIABLE
+c Solving Time(ms): 23.783
+s SATISFIABLE
+c Solving Time(ms): 23.263
+s SATISFIABLE
+c Solving Time(ms): 24.725
+s SATISFIABLE
+140========================================================================================
+c Solving Time(ms): 28.848
+s SATISFIABLE
+c Solving Time(ms): 26.627
+s SATISFIABLE
+c Solving Time(ms): 25.966
+s SATISFIABLE
+c Solving Time(ms): 33.594
+s SATISFIABLE
+c Solving Time(ms): 23.858
+s SATISFIABLE
+c Solving Time(ms): 24.482
+s SATISFIABLE
+c Solving Time(ms): 26.068
+s SATISFIABLE
+c Solving Time(ms): 25.15
+s SATISFIABLE
+c Solving Time(ms): 29.288
+s SATISFIABLE
+c Solving Time(ms): 30.831
+s SATISFIABLE
+c Solving Time(ms): 27.844
+s SATISFIABLE
+c Solving Time(ms): 24.968
+s SATISFIABLE
+c Solving Time(ms): 28.818
+s SATISFIABLE
+c Solving Time(ms): 28.846
+s SATISFIABLE
+c Solving Time(ms): 26.571
+s SATISFIABLE
+c Solving Time(ms): 26.935
+s SATISFIABLE
+c Solving Time(ms): 31.591
+s SATISFIABLE
+c Solving Time(ms): 29.513
+s SATISFIABLE
+c Solving Time(ms): 29.549
+s SATISFIABLE
+c Solving Time(ms): 26.894
+s SATISFIABLE
+c Solving Time(ms): 37.769
+s SATISFIABLE
+c Solving Time(ms): 31.834
+s SATISFIABLE
+c Solving Time(ms): 33.4
+s SATISFIABLE
+c Solving Time(ms): 33.024
+s SATISFIABLE
+c Solving Time(ms): 30.737
+s SATISFIABLE
+c Solving Time(ms): 34.87
+s SATISFIABLE
+c Solving Time(ms): 38.023
+s SATISFIABLE
+c Solving Time(ms): 27.687
+s SATISFIABLE
+c Solving Time(ms): 37.101
+s SATISFIABLE
+c Solving Time(ms): 27.766
+s SATISFIABLE
+c Solving Time(ms): 36.433
+s SATISFIABLE
+c Solving Time(ms): 50.655
+s SATISFIABLE
+c Solving Time(ms): 38.714
+s SATISFIABLE
+c Solving Time(ms): 37.633
+s SATISFIABLE
+c Solving Time(ms): 56.148
+s SATISFIABLE
+c Solving Time(ms): 27.995
+s SATISFIABLE
+c Solving Time(ms): 24.603
+s SATISFIABLE
+c Solving Time(ms): 44.535
+s SATISFIABLE
+c Solving Time(ms): 28.077
+s SATISFIABLE
+c Solving Time(ms): 23.906
+s SATISFIABLE
+c Solving Time(ms): 33.302
+s SATISFIABLE
+c Solving Time(ms): 27.175
+s SATISFIABLE
+c Solving Time(ms): 32.621
+s SATISFIABLE
+c Solving Time(ms): 44.568
+s SATISFIABLE
+c Solving Time(ms): 25.069
+s SATISFIABLE
+c Solving Time(ms): 37.254
+s SATISFIABLE
+c Solving Time(ms): 33.825
+s SATISFIABLE
+c Solving Time(ms): 33.351
+s SATISFIABLE
+c Solving Time(ms): 37.218
+s SATISFIABLE
+c Solving Time(ms): 32.501
+s SATISFIABLE
+c Solving Time(ms): 28.665
+s SATISFIABLE
+c Solving Time(ms): 26.507
+s SATISFIABLE
+c Solving Time(ms): 30.432
+s SATISFIABLE
+c Solving Time(ms): 36.691
+s SATISFIABLE
+c Solving Time(ms): 30.298
+s SATISFIABLE
+c Solving Time(ms): 24.496
+s SATISFIABLE
+c Solving Time(ms): 28.534
+s SATISFIABLE
+c Solving Time(ms): 27.852
+s SATISFIABLE
+c Solving Time(ms): 35.465
+s SATISFIABLE
+c Solving Time(ms): 26.998
+s SATISFIABLE
+c Solving Time(ms): 28.944
+s SATISFIABLE
+c Solving Time(ms): 27.666
+s SATISFIABLE
+c Solving Time(ms): 39.223
+s SATISFIABLE
+c Solving Time(ms): 23.888
+s SATISFIABLE
+c Solving Time(ms): 26.517
+s SATISFIABLE
+c Solving Time(ms): 29.597
+s SATISFIABLE
+c Solving Time(ms): 47.152
+s SATISFIABLE
+c Solving Time(ms): 31.203
+s SATISFIABLE
+c Solving Time(ms): 30.342
+s SATISFIABLE
+c Solving Time(ms): 27.339
+s SATISFIABLE
+c Solving Time(ms): 31.752
+s SATISFIABLE
+c Solving Time(ms): 29.923
+s SATISFIABLE
+c Solving Time(ms): 25.669
+s SATISFIABLE
+c Solving Time(ms): 32.936
+s SATISFIABLE
+c Solving Time(ms): 26.365
+s SATISFIABLE
+c Solving Time(ms): 36.535
+s SATISFIABLE
+c Solving Time(ms): 27.109
+s SATISFIABLE
+c Solving Time(ms): 26.112
+s SATISFIABLE
+c Solving Time(ms): 29.705
+s SATISFIABLE
+c Solving Time(ms): 43.26
+s SATISFIABLE
+150========================================================================================
+c Solving Time(ms): 36.34
+s SATISFIABLE
+c Solving Time(ms): 30.495
+s SATISFIABLE
+c Solving Time(ms): 39.71
+s SATISFIABLE
+c Solving Time(ms): 31.189
+s SATISFIABLE
+c Solving Time(ms): 30.971
+s SATISFIABLE
+c Solving Time(ms): 54.518
+s SATISFIABLE
+c Solving Time(ms): 26.735
+s SATISFIABLE
+c Solving Time(ms): 43.068
+s SATISFIABLE
+c Solving Time(ms): 34.162
+s SATISFIABLE
+c Solving Time(ms): 55.533
+s SATISFIABLE
+c Solving Time(ms): 28.746
+s SATISFIABLE
+c Solving Time(ms): 57.672
+s SATISFIABLE
+c Solving Time(ms): 30.154
+s SATISFIABLE
+c Solving Time(ms): 32.134
+s SATISFIABLE
+c Solving Time(ms): 46.922
+s SATISFIABLE
+c Solving Time(ms): 46.961
+s SATISFIABLE
+c Solving Time(ms): 51.887
+s SATISFIABLE
+c Solving Time(ms): 43.751
+s SATISFIABLE
+c Solving Time(ms): 32.221
+s SATISFIABLE
+c Solving Time(ms): 29.465
+s SATISFIABLE
+c Solving Time(ms): 31.125
+s SATISFIABLE
+c Solving Time(ms): 33.217
+s SATISFIABLE
+c Solving Time(ms): 33.971
+s SATISFIABLE
+c Solving Time(ms): 33.695
+s SATISFIABLE
+c Solving Time(ms): 30.793
+s SATISFIABLE
+c Solving Time(ms): 34.054
+s SATISFIABLE
+c Solving Time(ms): 29.286
+s SATISFIABLE
+c Solving Time(ms): 31.602
+s SATISFIABLE
+c Solving Time(ms): 27.324
+s SATISFIABLE
+c Solving Time(ms): 27.408
+s SATISFIABLE
+c Solving Time(ms): 27.325
+s SATISFIABLE
+c Solving Time(ms): 39.91
+s SATISFIABLE
+c Solving Time(ms): 31.124
+s SATISFIABLE
+c Solving Time(ms): 29.527
+s SATISFIABLE
+c Solving Time(ms): 30.194
+s SATISFIABLE
+c Solving Time(ms): 34.647
+s SATISFIABLE
+c Solving Time(ms): 30.292
+s SATISFIABLE
+c Solving Time(ms): 62.758
+s SATISFIABLE
+c Solving Time(ms): 32.49
+s SATISFIABLE
+c Solving Time(ms): 29.218
+s SATISFIABLE
+c Solving Time(ms): 26.521
+s SATISFIABLE
+c Solving Time(ms): 38.401
+s SATISFIABLE
+c Solving Time(ms): 28.571
+s SATISFIABLE
+c Solving Time(ms): 29.931
+s SATISFIABLE
+c Solving Time(ms): 27.734
+s SATISFIABLE
+c Solving Time(ms): 34.604
+s SATISFIABLE
+c Solving Time(ms): 28.973
+s SATISFIABLE
+c Solving Time(ms): 58.134
+s SATISFIABLE
+c Solving Time(ms): 32.131
+s SATISFIABLE
+c Solving Time(ms): 48.074
+s SATISFIABLE
+c Solving Time(ms): 29.118
+s SATISFIABLE
+c Solving Time(ms): 31.017
+s SATISFIABLE
+c Solving Time(ms): 34.415
+s SATISFIABLE
+c Solving Time(ms): 27.592
+s SATISFIABLE
+c Solving Time(ms): 26.896
+s SATISFIABLE
+c Solving Time(ms): 46.813
+s SATISFIABLE
+c Solving Time(ms): 47.773
+s SATISFIABLE
+c Solving Time(ms): 32.493
+s SATISFIABLE
+c Solving Time(ms): 40.375
+s SATISFIABLE
+c Solving Time(ms): 31.737
+s SATISFIABLE
+c Solving Time(ms): 38.598
+s SATISFIABLE
+c Solving Time(ms): 48.917
+s SATISFIABLE
+c Solving Time(ms): 31.356
+s SATISFIABLE
+c Solving Time(ms): 27.735
+s SATISFIABLE
+c Solving Time(ms): 54.353
+s SATISFIABLE
+c Solving Time(ms): 35.903
+s SATISFIABLE
+c Solving Time(ms): 28.156
+s SATISFIABLE
+c Solving Time(ms): 32.084
+s SATISFIABLE
+c Solving Time(ms): 33.754
+s SATISFIABLE
+c Solving Time(ms): 35.231
+s SATISFIABLE
+c Solving Time(ms): 29.238
+s SATISFIABLE
+c Solving Time(ms): 26.564
+s SATISFIABLE
+c Solving Time(ms): 32.701
+s SATISFIABLE
+c Solving Time(ms): 30.974
+s SATISFIABLE
+c Solving Time(ms): 27.115
+s SATISFIABLE
+c Solving Time(ms): 31.867
+s SATISFIABLE
+c Solving Time(ms): 28.32
+s SATISFIABLE
+c Solving Time(ms): 33.057
+s SATISFIABLE
+c Solving Time(ms): 31.766
+s SATISFIABLE
+c Solving Time(ms): 30.621
+s SATISFIABLE
+160========================================================================================
+c Solving Time(ms): 31.97
+s SATISFIABLE
+c Solving Time(ms): 38.864
+s SATISFIABLE
+c Solving Time(ms): 64.485
+s SATISFIABLE
+c Solving Time(ms): 42.92
+s SATISFIABLE
+c Solving Time(ms): 55.412
+s SATISFIABLE
+c Solving Time(ms): 32.614
+s SATISFIABLE
+c Solving Time(ms): 44.896
+s SATISFIABLE
+c Solving Time(ms): 36.858
+s SATISFIABLE
+c Solving Time(ms): 66.857
+s SATISFIABLE
+c Solving Time(ms): 42.081
+s SATISFIABLE
+c Solving Time(ms): 36.176
+s SATISFIABLE
+c Solving Time(ms): 34.337
+s SATISFIABLE
+c Solving Time(ms): 34.997
+s SATISFIABLE
+c Solving Time(ms): 30.075
+s SATISFIABLE
+c Solving Time(ms): 31.433
+s SATISFIABLE
+c Solving Time(ms): 43.366
+s SATISFIABLE
+c Solving Time(ms): 42.442
+s SATISFIABLE
+c Solving Time(ms): 38.121
+s SATISFIABLE
+c Solving Time(ms): 43.581
+s SATISFIABLE
+c Solving Time(ms): 31.286
+s SATISFIABLE
+c Solving Time(ms): 48.771
+s SATISFIABLE
+c Solving Time(ms): 39.771
+s SATISFIABLE
+c Solving Time(ms): 34.293
+s SATISFIABLE
+c Solving Time(ms): 38.067
+s SATISFIABLE
+c Solving Time(ms): 35.778
+s SATISFIABLE
+c Solving Time(ms): 35.929
+s SATISFIABLE
+c Solving Time(ms): 32.456
+s SATISFIABLE
+c Solving Time(ms): 33.048
+s SATISFIABLE
+c Solving Time(ms): 40.084
+s SATISFIABLE
+c Solving Time(ms): 41
+s SATISFIABLE
+c Solving Time(ms): 47.219
+s SATISFIABLE
+c Solving Time(ms): 37.96
+s SATISFIABLE
+c Solving Time(ms): 33.245
+s SATISFIABLE
+c Solving Time(ms): 59.303
+s SATISFIABLE
+c Solving Time(ms): 46.092
+s SATISFIABLE
+c Solving Time(ms): 33.994
+s SATISFIABLE
+c Solving Time(ms): 34.415
+s SATISFIABLE
+c Solving Time(ms): 29.975
+s SATISFIABLE
+c Solving Time(ms): 35.312
+s SATISFIABLE
+c Solving Time(ms): 37.851
+s SATISFIABLE
+c Solving Time(ms): 32.156
+s SATISFIABLE
+c Solving Time(ms): 43.145
+s SATISFIABLE
+c Solving Time(ms): 48.003
+s SATISFIABLE
+c Solving Time(ms): 60.413
+s SATISFIABLE
+c Solving Time(ms): 37.054
+s SATISFIABLE
+c Solving Time(ms): 29.818
+s SATISFIABLE
+c Solving Time(ms): 43.577
+s SATISFIABLE
+c Solving Time(ms): 31.685
+s SATISFIABLE
+c Solving Time(ms): 37.977
+s SATISFIABLE
+c Solving Time(ms): 38.479
+s SATISFIABLE
+c Solving Time(ms): 39.628
+s SATISFIABLE
+c Solving Time(ms): 33.551
+s SATISFIABLE
+c Solving Time(ms): 32.776
+s SATISFIABLE
+c Solving Time(ms): 36.99
+s SATISFIABLE
+c Solving Time(ms): 35.435
+s SATISFIABLE
+c Solving Time(ms): 36.271
+s SATISFIABLE
+c Solving Time(ms): 37.509
+s SATISFIABLE
+c Solving Time(ms): 42.716
+s SATISFIABLE
+c Solving Time(ms): 39.315
+s SATISFIABLE
+c Solving Time(ms): 42.551
+s SATISFIABLE
+c Solving Time(ms): 30.935
+s SATISFIABLE
+c Solving Time(ms): 36.643
+s SATISFIABLE
+c Solving Time(ms): 46.78
+s SATISFIABLE
+c Solving Time(ms): 36.323
+s SATISFIABLE
+c Solving Time(ms): 38.915
+s SATISFIABLE
+c Solving Time(ms): 35.629
+s SATISFIABLE
+c Solving Time(ms): 33.035
+s SATISFIABLE
+c Solving Time(ms): 43.301
+s SATISFIABLE
+c Solving Time(ms): 39.675
+s SATISFIABLE
+c Solving Time(ms): 57.837
+s SATISFIABLE
+c Solving Time(ms): 46.813
+s SATISFIABLE
+c Solving Time(ms): 39.954
+s SATISFIABLE
+c Solving Time(ms): 44.282
+s SATISFIABLE
+c Solving Time(ms): 36.026
+s SATISFIABLE
+c Solving Time(ms): 34.564
+s SATISFIABLE
+c Solving Time(ms): 33.281
+s SATISFIABLE
+c Solving Time(ms): 31.09
+s SATISFIABLE
+c Solving Time(ms): 29.892
+s SATISFIABLE
+c Solving Time(ms): 43.237
+s SATISFIABLE
+c Solving Time(ms): 30.412
+s SATISFIABLE
+170========================================================================================
+c Solving Time(ms): 37.691
+s SATISFIABLE
+c Solving Time(ms): 33.407
+s SATISFIABLE
+c Solving Time(ms): 33.539
+s SATISFIABLE
+c Solving Time(ms): 38.375
+s SATISFIABLE
+c Solving Time(ms): 35.679
+s SATISFIABLE
+c Solving Time(ms): 46.52
+s SATISFIABLE
+c Solving Time(ms): 36.978
+s SATISFIABLE
+c Solving Time(ms): 43.003
+s SATISFIABLE
+c Solving Time(ms): 43.532
+s SATISFIABLE
+c Solving Time(ms): 50.869
+s SATISFIABLE
+c Solving Time(ms): 32.871
+s SATISFIABLE
+c Solving Time(ms): 39.79
+s SATISFIABLE
+c Solving Time(ms): 57.546
+s SATISFIABLE
+c Solving Time(ms): 53.082
+s SATISFIABLE
+c Solving Time(ms): 32.577
+s SATISFIABLE
+c Solving Time(ms): 39.345
+s SATISFIABLE
+c Solving Time(ms): 63.903
+s SATISFIABLE
+c Solving Time(ms): 46.243
+s SATISFIABLE
+c Solving Time(ms): 58.345
+s SATISFIABLE
+c Solving Time(ms): 33.62
+s SATISFIABLE
+c Solving Time(ms): 43.357
+s SATISFIABLE
+c Solving Time(ms): 52.911
+s SATISFIABLE
+c Solving Time(ms): 39.711
+s SATISFIABLE
+c Solving Time(ms): 43.118
+s SATISFIABLE
+c Solving Time(ms): 40.103
+s SATISFIABLE
+c Solving Time(ms): 39.027
+s SATISFIABLE
+c Solving Time(ms): 38.273
+s SATISFIABLE
+c Solving Time(ms): 66.789
+s SATISFIABLE
+c Solving Time(ms): 43.19
+s SATISFIABLE
+c Solving Time(ms): 66.82
+s SATISFIABLE
+c Solving Time(ms): 37.948
+s SATISFIABLE
+c Solving Time(ms): 56.942
+s SATISFIABLE
+c Solving Time(ms): 78.085
+s SATISFIABLE
+c Solving Time(ms): 34.378
+s SATISFIABLE
+c Solving Time(ms): 42.758
+s SATISFIABLE
+c Solving Time(ms): 41.492
+s SATISFIABLE
+c Solving Time(ms): 43.984
+s SATISFIABLE
+c Solving Time(ms): 36.366
+s SATISFIABLE
+c Solving Time(ms): 49.39
+s SATISFIABLE
+c Solving Time(ms): 61.546
+s SATISFIABLE
+c Solving Time(ms): 38.824
+s SATISFIABLE
+c Solving Time(ms): 33.284
+s SATISFIABLE
+c Solving Time(ms): 41.808
+s SATISFIABLE
+c Solving Time(ms): 38.755
+s SATISFIABLE
+c Solving Time(ms): 58.968
+s SATISFIABLE
+c Solving Time(ms): 34.163
+s SATISFIABLE
+c Solving Time(ms): 47.212
+s SATISFIABLE
+c Solving Time(ms): 33.84
+s SATISFIABLE
+c Solving Time(ms): 54.092
+s SATISFIABLE
+c Solving Time(ms): 33.143
+s SATISFIABLE
+c Solving Time(ms): 35.693
+s SATISFIABLE
+c Solving Time(ms): 39.412
+s SATISFIABLE
+c Solving Time(ms): 85.043
+s SATISFIABLE
+c Solving Time(ms): 39.657
+s SATISFIABLE
+c Solving Time(ms): 34.421
+s SATISFIABLE
+c Solving Time(ms): 43.858
+s SATISFIABLE
+c Solving Time(ms): 74.526
+s SATISFIABLE
+c Solving Time(ms): 59.583
+s SATISFIABLE
+c Solving Time(ms): 36.691
+s SATISFIABLE
+c Solving Time(ms): 35.292
+s SATISFIABLE
+c Solving Time(ms): 34.669
+s SATISFIABLE
+c Solving Time(ms): 38.645
+s SATISFIABLE
+c Solving Time(ms): 45.167
+s SATISFIABLE
+c Solving Time(ms): 58.586
+s SATISFIABLE
+c Solving Time(ms): 35.045
+s SATISFIABLE
+c Solving Time(ms): 61.623
+s SATISFIABLE
+c Solving Time(ms): 35.805
+s SATISFIABLE
+c Solving Time(ms): 34.723
+s SATISFIABLE
+c Solving Time(ms): 39.588
+s SATISFIABLE
+c Solving Time(ms): 49.706
+s SATISFIABLE
+c Solving Time(ms): 40.308
+s SATISFIABLE
+c Solving Time(ms): 44.79
+s SATISFIABLE
+c Solving Time(ms): 38.807
+s SATISFIABLE
+c Solving Time(ms): 40.832
+s SATISFIABLE
+c Solving Time(ms): 32.92
+s SATISFIABLE
+c Solving Time(ms): 52.18
+s SATISFIABLE
+c Solving Time(ms): 38.56
+s SATISFIABLE
+c Solving Time(ms): 42.524
+s SATISFIABLE
+c Solving Time(ms): 40.633
+s SATISFIABLE
+c Solving Time(ms): 52.162
+s SATISFIABLE
+180========================================================================================
+c Solving Time(ms): 37.447
+s SATISFIABLE
+c Solving Time(ms): 71.281
+s SATISFIABLE
+c Solving Time(ms): 40.727
+s SATISFIABLE
+c Solving Time(ms): 62.752
+s SATISFIABLE
+c Solving Time(ms): 43.782
+s SATISFIABLE
+c Solving Time(ms): 44.433
+s SATISFIABLE
+c Solving Time(ms): 44.276
+s SATISFIABLE
+c Solving Time(ms): 54.105
+s SATISFIABLE
+c Solving Time(ms): 51.506
+s SATISFIABLE
+c Solving Time(ms): 38.132
+s SATISFIABLE
+c Solving Time(ms): 44.364
+s SATISFIABLE
+c Solving Time(ms): 37.438
+s SATISFIABLE
+c Solving Time(ms): 54.948
+s SATISFIABLE
+c Solving Time(ms): 68.431
+s SATISFIABLE
+c Solving Time(ms): 63.627
+s SATISFIABLE
+c Solving Time(ms): 41.693
+s SATISFIABLE
+c Solving Time(ms): 36.851
+s SATISFIABLE
+c Solving Time(ms): 41.095
+s SATISFIABLE
+c Solving Time(ms): 49.894
+s SATISFIABLE
+c Solving Time(ms): 50.237
+s SATISFIABLE
+c Solving Time(ms): 75.835
+s SATISFIABLE
+c Solving Time(ms): 41.413
+s SATISFIABLE
+c Solving Time(ms): 49.774
+s SATISFIABLE
+c Solving Time(ms): 55.39
+s SATISFIABLE
+c Solving Time(ms): 131.353
+s SATISFIABLE
+c Solving Time(ms): 55.478
+s SATISFIABLE
+c Solving Time(ms): 43.458
+s SATISFIABLE
+c Solving Time(ms): 51.721
+s SATISFIABLE
+c Solving Time(ms): 43.071
+s SATISFIABLE
+c Solving Time(ms): 70.349
+s SATISFIABLE
+c Solving Time(ms): 43.515
+s SATISFIABLE
+c Solving Time(ms): 46.346
+s SATISFIABLE
+c Solving Time(ms): 56.272
+s SATISFIABLE
+c Solving Time(ms): 72.634
+s SATISFIABLE
+c Solving Time(ms): 43.001
+s SATISFIABLE
+c Solving Time(ms): 43.182
+s SATISFIABLE
+c Solving Time(ms): 53.551
+s SATISFIABLE
+c Solving Time(ms): 49.657
+s SATISFIABLE
+c Solving Time(ms): 56.473
+s SATISFIABLE
+c Solving Time(ms): 44.707
+s SATISFIABLE
+c Solving Time(ms): 50.648
+s SATISFIABLE
+c Solving Time(ms): 72.827
+s SATISFIABLE
+c Solving Time(ms): 51.085
+s SATISFIABLE
+c Solving Time(ms): 57.518
+s SATISFIABLE
+c Solving Time(ms): 41.659
+s SATISFIABLE
+c Solving Time(ms): 43.074
+s SATISFIABLE
+c Solving Time(ms): 77.868
+s SATISFIABLE
+c Solving Time(ms): 46.535
+s SATISFIABLE
+c Solving Time(ms): 37.442
+s SATISFIABLE
+c Solving Time(ms): 54.173
+s SATISFIABLE
+c Solving Time(ms): 42.782
+s SATISFIABLE
+c Solving Time(ms): 62.336
+s SATISFIABLE
+c Solving Time(ms): 39.851
+s SATISFIABLE
+c Solving Time(ms): 39.674
+s SATISFIABLE
+c Solving Time(ms): 44.609
+s SATISFIABLE
+c Solving Time(ms): 51.459
+s SATISFIABLE
+c Solving Time(ms): 50.544
+s SATISFIABLE
+c Solving Time(ms): 39.393
+s SATISFIABLE
+c Solving Time(ms): 38.132
+s SATISFIABLE
+c Solving Time(ms): 43.48
+s SATISFIABLE
+c Solving Time(ms): 43.353
+s SATISFIABLE
+c Solving Time(ms): 77.91
+s SATISFIABLE
+c Solving Time(ms): 48.07
+s SATISFIABLE
+c Solving Time(ms): 42.537
+s SATISFIABLE
+c Solving Time(ms): 42.85
+s SATISFIABLE
+c Solving Time(ms): 53.102
+s SATISFIABLE
+c Solving Time(ms): 49.241
+s SATISFIABLE
+c Solving Time(ms): 60.895
+s SATISFIABLE
+c Solving Time(ms): 41.122
+s SATISFIABLE
+c Solving Time(ms): 47.227
+s SATISFIABLE
+c Solving Time(ms): 52.929
+s SATISFIABLE
+c Solving Time(ms): 70.343
+s SATISFIABLE
+c Solving Time(ms): 41.133
+s SATISFIABLE
+c Solving Time(ms): 62.586
+s SATISFIABLE
+c Solving Time(ms): 62.269
+s SATISFIABLE
+c Solving Time(ms): 69.794
+s SATISFIABLE
+c Solving Time(ms): 43.39
+s SATISFIABLE
+c Solving Time(ms): 55.422
+s SATISFIABLE
+c Solving Time(ms): 44.164
+s SATISFIABLE
+c Solving Time(ms): 41.17
+s SATISFIABLE
+190========================================================================================
+c Solving Time(ms): 73.829
+s SATISFIABLE
+c Solving Time(ms): 40.133
+s SATISFIABLE
+c Solving Time(ms): 49.309
+s SATISFIABLE
+c Solving Time(ms): 46.124
+s SATISFIABLE
+c Solving Time(ms): 48.43
+s SATISFIABLE
+c Solving Time(ms): 77.144
+s SATISFIABLE
+c Solving Time(ms): 53.835
+s SATISFIABLE
+c Solving Time(ms): 47.496
+s SATISFIABLE
+c Solving Time(ms): 56.231
+s SATISFIABLE
+c Solving Time(ms): 45.606
+s SATISFIABLE
+c Solving Time(ms): 47.708
+s SATISFIABLE
+c Solving Time(ms): 56.685
+s SATISFIABLE
+c Solving Time(ms): 61.836
+s SATISFIABLE
+c Solving Time(ms): 46.015
+s SATISFIABLE
+c Solving Time(ms): 45.259
+s SATISFIABLE
+c Solving Time(ms): 64.395
+s SATISFIABLE
+c Solving Time(ms): 43.112
+s SATISFIABLE
+c Solving Time(ms): 57.584
+s SATISFIABLE
+c Solving Time(ms): 54.805
+s SATISFIABLE
+c Solving Time(ms): 58.148
+s SATISFIABLE
+c Solving Time(ms): 58.142
+s SATISFIABLE
+c Solving Time(ms): 50.716
+s SATISFIABLE
+c Solving Time(ms): 99.001
+s SATISFIABLE
+c Solving Time(ms): 46.045
+s SATISFIABLE
+c Solving Time(ms): 48.674
+s SATISFIABLE
+c Solving Time(ms): 48.834
+s SATISFIABLE
+c Solving Time(ms): 45.552
+s SATISFIABLE
+c Solving Time(ms): 61.837
+s SATISFIABLE
+c Solving Time(ms): 73.878
+s SATISFIABLE
+c Solving Time(ms): 73.5
+s SATISFIABLE
+c Solving Time(ms): 227.504
+s SATISFIABLE
+c Solving Time(ms): 39.664
+s SATISFIABLE
+c Solving Time(ms): 48.954
+s SATISFIABLE
+c Solving Time(ms): 45.36
+s SATISFIABLE
+c Solving Time(ms): 59.764
+s SATISFIABLE
+c Solving Time(ms): 51.18
+s SATISFIABLE
+c Solving Time(ms): 51.581
+s SATISFIABLE
+c Solving Time(ms): 53.534
+s SATISFIABLE
+c Solving Time(ms): 56.811
+s SATISFIABLE
+c Solving Time(ms): 58.734
+s SATISFIABLE
+c Solving Time(ms): 68.905
+s SATISFIABLE
+c Solving Time(ms): 86.758
+s SATISFIABLE
+c Solving Time(ms): 40.2
+s SATISFIABLE
+c Solving Time(ms): 75.88
+s SATISFIABLE
+c Solving Time(ms): 68.003
+s SATISFIABLE
+c Solving Time(ms): 43.233
+s SATISFIABLE
+c Solving Time(ms): 40.662
+s SATISFIABLE
+c Solving Time(ms): 47.045
+s SATISFIABLE
+c Solving Time(ms): 65.854
+s SATISFIABLE
+c Solving Time(ms): 55.295
+s SATISFIABLE
+c Solving Time(ms): 42.581
+s SATISFIABLE
+c Solving Time(ms): 58.03
+s SATISFIABLE
+c Solving Time(ms): 47.677
+s SATISFIABLE
+c Solving Time(ms): 52.315
+s SATISFIABLE
+c Solving Time(ms): 54.265
+s SATISFIABLE
+c Solving Time(ms): 78.855
+s SATISFIABLE
+c Solving Time(ms): 57.812
+s SATISFIABLE
+c Solving Time(ms): 120.222
+s SATISFIABLE
+c Solving Time(ms): 52.747
+s SATISFIABLE
+c Solving Time(ms): 41.97
+s SATISFIABLE
+c Solving Time(ms): 53.482
+s SATISFIABLE
+c Solving Time(ms): 40.222
+s SATISFIABLE
+c Solving Time(ms): 39.851
+s SATISFIABLE
+c Solving Time(ms): 40.842
+s SATISFIABLE
+c Solving Time(ms): 71.948
+s SATISFIABLE
+c Solving Time(ms): 53.682
+s SATISFIABLE
+c Solving Time(ms): 58.62
+s SATISFIABLE
+c Solving Time(ms): 53.245
+s SATISFIABLE
+c Solving Time(ms): 41.043
+s SATISFIABLE
+c Solving Time(ms): 50.783
+s SATISFIABLE
+c Solving Time(ms): 54.657
+s SATISFIABLE
+c Solving Time(ms): 64.808
+s SATISFIABLE
+c Solving Time(ms): 52.653
+s SATISFIABLE
+c Solving Time(ms): 53.435
+s SATISFIABLE
+c Solving Time(ms): 51.029
+s SATISFIABLE
+c Solving Time(ms): 46.473
+s SATISFIABLE
+c Solving Time(ms): 57.343
+s SATISFIABLE
+c Solving Time(ms): 62.143
+s SATISFIABLE
+c Solving Time(ms): 112.516
+s SATISFIABLE
+c Solving Time(ms): 41.776
+s SATISFIABLE
+200========================================================================================
+c Solving Time(ms): 60.373
+s SATISFIABLE
+c Solving Time(ms): 75.148
+s SATISFIABLE
+c Solving Time(ms): 49.132
+s SATISFIABLE
+c Solving Time(ms): 49.01
+s SATISFIABLE
+c Solving Time(ms): 54.925
+s SATISFIABLE
+c Solving Time(ms): 69.785
+s SATISFIABLE
+c Solving Time(ms): 61.696
+s SATISFIABLE
+c Solving Time(ms): 85.875
+s SATISFIABLE
+c Solving Time(ms): 64.481
+s SATISFIABLE
+c Solving Time(ms): 55.572
+s SATISFIABLE
+c Solving Time(ms): 52.478
+s SATISFIABLE
+c Solving Time(ms): 46.686
+s SATISFIABLE
+c Solving Time(ms): 169.748
+s SATISFIABLE
+c Solving Time(ms): 128.507
+s SATISFIABLE
+c Solving Time(ms): 71.095
+s SATISFIABLE
+c Solving Time(ms): 60.281
+s SATISFIABLE
+c Solving Time(ms): 63.947
+s SATISFIABLE
+c Solving Time(ms): 51.329
+s SATISFIABLE
+c Solving Time(ms): 63.546
+s SATISFIABLE
+c Solving Time(ms): 77.981
+s SATISFIABLE
+c Solving Time(ms): 83.129
+s SATISFIABLE
+c Solving Time(ms): 64.379
+s SATISFIABLE
+c Solving Time(ms): 59.026
+s SATISFIABLE
+c Solving Time(ms): 50.463
+s SATISFIABLE
+c Solving Time(ms): 73.558
+s SATISFIABLE
+c Solving Time(ms): 54.044
+s SATISFIABLE
+c Solving Time(ms): 71.012
+s SATISFIABLE
+c Solving Time(ms): 45.449
+s SATISFIABLE
+c Solving Time(ms): 48.013
+s SATISFIABLE
+c Solving Time(ms): 59.821
+s SATISFIABLE
+c Solving Time(ms): 62.111
+s SATISFIABLE
+c Solving Time(ms): 55.348
+s SATISFIABLE
+c Solving Time(ms): 136.326
+s SATISFIABLE
+c Solving Time(ms): 54.193
+s SATISFIABLE
+c Solving Time(ms): 56.269
+s SATISFIABLE
+c Solving Time(ms): 51.576
+s SATISFIABLE
+c Solving Time(ms): 51.449
+s SATISFIABLE
+c Solving Time(ms): 55.843
+s SATISFIABLE
+c Solving Time(ms): 43.67
+s SATISFIABLE
+c Solving Time(ms): 61.744
+s SATISFIABLE
+c Solving Time(ms): 63.852
+s SATISFIABLE
+c Solving Time(ms): 44.118
+s SATISFIABLE
+c Solving Time(ms): 61.434
+s SATISFIABLE
+c Solving Time(ms): 46.827
+s SATISFIABLE
+c Solving Time(ms): 46.675
+s SATISFIABLE
+c Solving Time(ms): 43.801
+s SATISFIABLE
+c Solving Time(ms): 45.142
+s SATISFIABLE
+c Solving Time(ms): 55.319
+s SATISFIABLE
+c Solving Time(ms): 59.725
+s SATISFIABLE
+c Solving Time(ms): 62.666
+s SATISFIABLE
+c Solving Time(ms): 86.504
+s SATISFIABLE
+c Solving Time(ms): 44.14
+s SATISFIABLE
+c Solving Time(ms): 55.276
+s SATISFIABLE
+c Solving Time(ms): 78.019
+s SATISFIABLE
+c Solving Time(ms): 62.207
+s SATISFIABLE
+c Solving Time(ms): 100.933
+s UNSATISFIABLE
+c Solving Time(ms): 237.463
+s UNSATISFIABLE
+c Solving Time(ms): 120.137
+s SATISFIABLE
+c Solving Time(ms): 61.774
+s SATISFIABLE
+c Solving Time(ms): 46.783
+s UNSATISFIABLE
+c Solving Time(ms): 60.463
+s SATISFIABLE
+c Solving Time(ms): 58.118
+s SATISFIABLE
+c Solving Time(ms): 43.139
+s UNSATISFIABLE
+c Solving Time(ms): 49.143
+s SATISFIABLE
+c Solving Time(ms): 58.595
+s SATISFIABLE
+c Solving Time(ms): 46.853
+s SATISFIABLE
+c Solving Time(ms): 54.174
+s SATISFIABLE
+c Solving Time(ms): 105.062
+s SATISFIABLE
+c Solving Time(ms): 56.784
+s SATISFIABLE
+c Solving Time(ms): 145.258
+s SATISFIABLE
+c Solving Time(ms): 88.484
+s SATISFIABLE
+c Solving Time(ms): 66.646
+s SATISFIABLE
+c Solving Time(ms): 57.02
+s SATISFIABLE
+c Solving Time(ms): 89.169
+s SATISFIABLE
+c Solving Time(ms): 73.649
+s SATISFIABLE
+c Solving Time(ms): 53.855
+s SATISFIABLE
+c Solving Time(ms): 87.057
+s SATISFIABLE
+c Solving Time(ms): 105.179
+s SATISFIABLE
+c Solving Time(ms): 78.142
+s SATISFIABLE
+c Solving Time(ms): 55.741
+s SATISFIABLE
+210========================================================================================
+c Solving Time(ms): 74.959
+s SATISFIABLE
+c Solving Time(ms): 59.097
+s SATISFIABLE
+c Solving Time(ms): 59.78
+s SATISFIABLE
+c Solving Time(ms): 59.88
+s SATISFIABLE
+c Solving Time(ms): 70.495
+s UNSATISFIABLE
+c Solving Time(ms): 62.984
+s SATISFIABLE
+c Solving Time(ms): 85.325
+s SATISFIABLE
+c Solving Time(ms): 80.267
+s SATISFIABLE
+c Solving Time(ms): 61.321
+s SATISFIABLE
+c Solving Time(ms): 62.633
+s SATISFIABLE
+c Solving Time(ms): 70.552
+s SATISFIABLE
+c Solving Time(ms): 64.369
+s UNSATISFIABLE
+c Solving Time(ms): 66.947
+s SATISFIABLE
+c Solving Time(ms): 62.455
+s SATISFIABLE
+c Solving Time(ms): 67.188
+s SATISFIABLE
+c Solving Time(ms): 57.337
+s SATISFIABLE
+c Solving Time(ms): 60.914
+s SATISFIABLE
+c Solving Time(ms): 67.317
+s SATISFIABLE
+c Solving Time(ms): 56.748
+s SATISFIABLE
+c Solving Time(ms): 48.491
+s UNSATISFIABLE
+c Solving Time(ms): 174.562
+s SATISFIABLE
+c Solving Time(ms): 57.588
+s SATISFIABLE
+c Solving Time(ms): 88.148
+s SATISFIABLE
+c Solving Time(ms): 51.659
+s SATISFIABLE
+c Solving Time(ms): 51.336
+s SATISFIABLE
+c Solving Time(ms): 55.487
+s SATISFIABLE
+c Solving Time(ms): 49.026
+s SATISFIABLE
+c Solving Time(ms): 67.543
+s SATISFIABLE
+c Solving Time(ms): 93.492
+s SATISFIABLE
+c Solving Time(ms): 95.139
+s SATISFIABLE
+c Solving Time(ms): 100.642
+s SATISFIABLE
+c Solving Time(ms): 75.198
+s SATISFIABLE
+c Solving Time(ms): 50.695
+s SATISFIABLE
+c Solving Time(ms): 54.736
+s SATISFIABLE
+c Solving Time(ms): 59.827
+s SATISFIABLE
+c Solving Time(ms): 115.858
+s SATISFIABLE
+c Solving Time(ms): 71.104
+s SATISFIABLE
+c Solving Time(ms): 49.886
+s SATISFIABLE
+c Solving Time(ms): 50.587
+s SATISFIABLE
+c Solving Time(ms): 50.583
+s SATISFIABLE
+c Solving Time(ms): 61.669
+s SATISFIABLE
+c Solving Time(ms): 69.38
+s SATISFIABLE
+c Solving Time(ms): 58.721
+s SATISFIABLE
+c Solving Time(ms): 104.936
+s SATISFIABLE
+c Solving Time(ms): 80.299
+s SATISFIABLE
+c Solving Time(ms): 60.672
+s SATISFIABLE
+c Solving Time(ms): 50.163
+s SATISFIABLE
+c Solving Time(ms): 65.532
+s SATISFIABLE
+c Solving Time(ms): 51.074
+s SATISFIABLE
+c Solving Time(ms): 98.012
+s UNSATISFIABLE
+c Solving Time(ms): 65.859
+s SATISFIABLE
+c Solving Time(ms): 63.634
+s SATISFIABLE
+c Solving Time(ms): 65.504
+s SATISFIABLE
+c Solving Time(ms): 125.214
+s SATISFIABLE
+c Solving Time(ms): 50.179
+s SATISFIABLE
+c Solving Time(ms): 56.953
+s SATISFIABLE
+c Solving Time(ms): 85.178
+s UNSATISFIABLE
+c Solving Time(ms): 63.998
+s SATISFIABLE
+c Solving Time(ms): 131.84
+s SATISFIABLE
+c Solving Time(ms): 107.111
+s SATISFIABLE
+c Solving Time(ms): 95.443
+s SATISFIABLE
+c Solving Time(ms): 77.353
+s SATISFIABLE
+c Solving Time(ms): 52.42
+s SATISFIABLE
+c Solving Time(ms): 48.63
+s SATISFIABLE
+c Solving Time(ms): 117.077
+s UNSATISFIABLE
+c Solving Time(ms): 57.586
+s SATISFIABLE
+c Solving Time(ms): 77.507
+s SATISFIABLE
+c Solving Time(ms): 70.484
+s SATISFIABLE
+c Solving Time(ms): 80.028
+s SATISFIABLE
+c Solving Time(ms): 113.227
+s SATISFIABLE
+c Solving Time(ms): 62.527
+s SATISFIABLE
+c Solving Time(ms): 66.031
+s SATISFIABLE
+c Solving Time(ms): 60.302
+s SATISFIABLE
+c Solving Time(ms): 77.081
+s SATISFIABLE
+c Solving Time(ms): 63.455
+s SATISFIABLE
+c Solving Time(ms): 55.191
+s SATISFIABLE
+c Solving Time(ms): 110.288
+s SATISFIABLE
+c Solving Time(ms): 63.457
+s SATISFIABLE
+c Solving Time(ms): 119.873
+s SATISFIABLE
+c Solving Time(ms): 85.389
+s SATISFIABLE
+220========================================================================================
+c Solving Time(ms): 66.571
+s SATISFIABLE
+c Solving Time(ms): 75.606
+s SATISFIABLE
+c Solving Time(ms): 52.314
+s SATISFIABLE
+c Solving Time(ms): 97.635
+s SATISFIABLE
+c Solving Time(ms): 78.396
+s SATISFIABLE
+c Solving Time(ms): 69.02
+s SATISFIABLE
+c Solving Time(ms): 70.726
+s SATISFIABLE
+c Solving Time(ms): 59.199
+s SATISFIABLE
+c Solving Time(ms): 178.041
+s SATISFIABLE
+c Solving Time(ms): 52.907
+s SATISFIABLE
+c Solving Time(ms): 52.027
+s SATISFIABLE
+c Solving Time(ms): 63.814
+s SATISFIABLE
+c Solving Time(ms): 76.184
+s SATISFIABLE
+c Solving Time(ms): 132.248
+s SATISFIABLE
+c Solving Time(ms): 108.105
+s SATISFIABLE
+c Solving Time(ms): 78.432
+s SATISFIABLE
+c Solving Time(ms): 93.765
+s SATISFIABLE
+c Solving Time(ms): 51.378
+s UNSATISFIABLE
+c Solving Time(ms): 52.228
+s SATISFIABLE
+c Solving Time(ms): 52.535
+s SATISFIABLE
+c Solving Time(ms): 66.611
+s SATISFIABLE
+c Solving Time(ms): 133.198
+s SATISFIABLE
+c Solving Time(ms): 75.25
+s SATISFIABLE
+c Solving Time(ms): 67.774
+s SATISFIABLE
+c Solving Time(ms): 72.328
+s SATISFIABLE
+c Solving Time(ms): 119.521
+s SATISFIABLE
+c Solving Time(ms): 51.193
+s UNSATISFIABLE
+c Solving Time(ms): 53.587
+s SATISFIABLE
+c Solving Time(ms): 65.038
+s SATISFIABLE
+c Solving Time(ms): 50.135
+s UNSATISFIABLE
+c Solving Time(ms): 64.752
+s SATISFIABLE
+c Solving Time(ms): 58.63
+s SATISFIABLE
+c Solving Time(ms): 84.806
+s SATISFIABLE
+c Solving Time(ms): 64.747
+s SATISFIABLE
+c Solving Time(ms): 58.324
+s UNSATISFIABLE
+c Solving Time(ms): 80.675
+s SATISFIABLE
+c Solving Time(ms): 87.103
+s SATISFIABLE
+c Solving Time(ms): 50.938
+s UNSATISFIABLE
+c Solving Time(ms): 92.528
+s SATISFIABLE
+c Solving Time(ms): 49.777
+s UNSATISFIABLE
+c Solving Time(ms): 73.159
+s SATISFIABLE
+c Solving Time(ms): 71.186
+s SATISFIABLE
+c Solving Time(ms): 59.903
+s SATISFIABLE
+c Solving Time(ms): 96.557
+s SATISFIABLE
+c Solving Time(ms): 49.673
+s UNSATISFIABLE
+c Solving Time(ms): 54.033
+s SATISFIABLE
+c Solving Time(ms): 106.587
+s SATISFIABLE
+c Solving Time(ms): 110.884
+s SATISFIABLE
+c Solving Time(ms): 75.758
+s SATISFIABLE
+c Solving Time(ms): 95.701
+s SATISFIABLE
+c Solving Time(ms): 104.896
+s SATISFIABLE
+c Solving Time(ms): 111.321
+s SATISFIABLE
+c Solving Time(ms): 73.956
+s SATISFIABLE
+c Solving Time(ms): 96.457
+s SATISFIABLE
+c Solving Time(ms): 51.455
+s UNSATISFIABLE
+c Solving Time(ms): 105.663
+s SATISFIABLE
+c Solving Time(ms): 79.755
+s SATISFIABLE
+c Solving Time(ms): 129.287
+s SATISFIABLE
+c Solving Time(ms): 56.242
+s UNSATISFIABLE
+c Solving Time(ms): 66.735
+s SATISFIABLE
+c Solving Time(ms): 72.183
+s SATISFIABLE
+c Solving Time(ms): 105.268
+s SATISFIABLE
+c Solving Time(ms): 194.114
+s SATISFIABLE
+c Solving Time(ms): 66.291
+s SATISFIABLE
+c Solving Time(ms): 70.386
+s SATISFIABLE
+c Solving Time(ms): 75.616
+s SATISFIABLE
+c Solving Time(ms): 94.497
+s SATISFIABLE
+c Solving Time(ms): 61.933
+s SATISFIABLE
+c Solving Time(ms): 83.617
+s SATISFIABLE
+c Solving Time(ms): 81.76
+s SATISFIABLE
+c Solving Time(ms): 62.738
+s SATISFIABLE
+c Solving Time(ms): 144.498
+s SATISFIABLE
+c Solving Time(ms): 93.626
+s SATISFIABLE
+c Solving Time(ms): 124.405
+s SATISFIABLE
+c Solving Time(ms): 68.319
+s SATISFIABLE
+c Solving Time(ms): 55.862
+s SATISFIABLE
+c Solving Time(ms): 56.733
+s SATISFIABLE
+c Solving Time(ms): 65.362
+s SATISFIABLE
+c Solving Time(ms): 83.911
+s SATISFIABLE
+c Solving Time(ms): 61.431
+s SATISFIABLE
+230========================================================================================
+c Solving Time(ms): 91.793
+s UNSATISFIABLE
+c Solving Time(ms): 64.433
+s SATISFIABLE
+c Solving Time(ms): 79.107
+s SATISFIABLE
+c Solving Time(ms): 59.888
+s UNSATISFIABLE
+c Solving Time(ms): 66.36
+s SATISFIABLE
+c Solving Time(ms): 113.81
+s SATISFIABLE
+c Solving Time(ms): 140.907
+s SATISFIABLE
+c Solving Time(ms): 69.114
+s SATISFIABLE
+c Solving Time(ms): 114.173
+s SATISFIABLE
+c Solving Time(ms): 69.287
+s SATISFIABLE
+c Solving Time(ms): 61.806
+s SATISFIABLE
+c Solving Time(ms): 81.315
+s SATISFIABLE
+c Solving Time(ms): 233.52
+s SATISFIABLE
+c Solving Time(ms): 56.819
+s SATISFIABLE
+c Solving Time(ms): 98.402
+s SATISFIABLE
+c Solving Time(ms): 78.419
+s SATISFIABLE
+c Solving Time(ms): 57.048
+s UNSATISFIABLE
+c Solving Time(ms): 95.472
+s SATISFIABLE
+c Solving Time(ms): 57.946
+s UNSATISFIABLE
+c Solving Time(ms): 71.794
+s SATISFIABLE
+c Solving Time(ms): 110.289
+s SATISFIABLE
+c Solving Time(ms): 85.396
+s SATISFIABLE
+c Solving Time(ms): 91.381
+s SATISFIABLE
+c Solving Time(ms): 161.804
+s SATISFIABLE
+c Solving Time(ms): 75.455
+s SATISFIABLE
+c Solving Time(ms): 54.277
+s UNSATISFIABLE
+c Solving Time(ms): 60.485
+s UNSATISFIABLE
+c Solving Time(ms): 90.397
+s SATISFIABLE
+c Solving Time(ms): 100.372
+s SATISFIABLE
+c Solving Time(ms): 79.951
+s SATISFIABLE
+c Solving Time(ms): 68.088
+s SATISFIABLE
+c Solving Time(ms): 154.737
+s SATISFIABLE
+c Solving Time(ms): 89.365
+s SATISFIABLE
+c Solving Time(ms): 146.813
+s SATISFIABLE
+c Solving Time(ms): 82.785
+s SATISFIABLE
+c Solving Time(ms): 69.666
+s UNSATISFIABLE
+c Solving Time(ms): 109.597
+s SATISFIABLE
+c Solving Time(ms): 67.287
+s SATISFIABLE
+c Solving Time(ms): 87.752
+s SATISFIABLE
+c Solving Time(ms): 83.58
+s SATISFIABLE
+c Solving Time(ms): 69.096
+s SATISFIABLE
+c Solving Time(ms): 66.557
+s SATISFIABLE
+c Solving Time(ms): 78.952
+s SATISFIABLE
+c Solving Time(ms): 199.304
+s SATISFIABLE
+c Solving Time(ms): 53.372
+s UNSATISFIABLE
+c Solving Time(ms): 72.948
+s SATISFIABLE
+c Solving Time(ms): 69.878
+s SATISFIABLE
+c Solving Time(ms): 72.949
+s SATISFIABLE
+c Solving Time(ms): 117.936
+s SATISFIABLE
+c Solving Time(ms): 67.751
+s SATISFIABLE
+c Solving Time(ms): 95.221
+s SATISFIABLE
+c Solving Time(ms): 90.615
+s SATISFIABLE
+c Solving Time(ms): 86.816
+s SATISFIABLE
+c Solving Time(ms): 113.642
+s SATISFIABLE
+c Solving Time(ms): 111.093
+s SATISFIABLE
+c Solving Time(ms): 69.305
+s SATISFIABLE
+c Solving Time(ms): 60.713
+s SATISFIABLE
+c Solving Time(ms): 112.422
+s SATISFIABLE
+c Solving Time(ms): 73.401
+s SATISFIABLE
+c Solving Time(ms): 135.178
+s SATISFIABLE
+c Solving Time(ms): 59.604
+s SATISFIABLE
+c Solving Time(ms): 106.893
+s SATISFIABLE
+c Solving Time(ms): 82.386
+s SATISFIABLE
+c Solving Time(ms): 92.663
+s SATISFIABLE
+c Solving Time(ms): 72.084
+s SATISFIABLE
+c Solving Time(ms): 152.738
+s SATISFIABLE
+c Solving Time(ms): 76.49
+s SATISFIABLE
+c Solving Time(ms): 76.09
+s SATISFIABLE
+c Solving Time(ms): 54.284
+s UNSATISFIABLE
+c Solving Time(ms): 70.15
+s SATISFIABLE
+c Solving Time(ms): 114.745
+s SATISFIABLE
+c Solving Time(ms): 64.529
+s SATISFIABLE
+c Solving Time(ms): 72.599
+s SATISFIABLE
+c Solving Time(ms): 74.3
+s SATISFIABLE
+c Solving Time(ms): 191.565
+s SATISFIABLE
+c Solving Time(ms): 115.19
+s SATISFIABLE
+c Solving Time(ms): 82.537
+s SATISFIABLE
+c Solving Time(ms): 79.039
+s SATISFIABLE
+c Solving Time(ms): 78.832
+s SATISFIABLE
+c Solving Time(ms): 101.329
+s SATISFIABLE
+240========================================================================================
+c Solving Time(ms): 71.543
+s SATISFIABLE
+c Solving Time(ms): 72.086
+s SATISFIABLE
+c Solving Time(ms): 169.199
+s UNSATISFIABLE
+c Solving Time(ms): 76.381
+s SATISFIABLE
+c Solving Time(ms): 211.726
+s SATISFIABLE
+c Solving Time(ms): 72.495
+s SATISFIABLE
+c Solving Time(ms): 68.494
+s SATISFIABLE
+c Solving Time(ms): 104.016
+s SATISFIABLE
+c Solving Time(ms): 65.764
+s SATISFIABLE
+c Solving Time(ms): 137.471
+s SATISFIABLE
+c Solving Time(ms): 127.998
+s SATISFIABLE
+c Solving Time(ms): 73.324
+s SATISFIABLE
+c Solving Time(ms): 151.753
+s SATISFIABLE
+c Solving Time(ms): 76.933
+s SATISFIABLE
+c Solving Time(ms): 76.018
+s SATISFIABLE
+c Solving Time(ms): 69.849
+s UNSATISFIABLE
+c Solving Time(ms): 84.338
+s SATISFIABLE
+c Solving Time(ms): 59.585
+s UNSATISFIABLE
+c Solving Time(ms): 99.633
+s SATISFIABLE
+c Solving Time(ms): 104.689
+s SATISFIABLE
+c Solving Time(ms): 92.836
+s SATISFIABLE
+c Solving Time(ms): 65.415
+s UNSATISFIABLE
+c Solving Time(ms): 91.599
+s SATISFIABLE
+c Solving Time(ms): 62.839
+s UNSATISFIABLE
+c Solving Time(ms): 85.476
+s SATISFIABLE
+c Solving Time(ms): 65.6
+s UNSATISFIABLE
+c Solving Time(ms): 83.688
+s SATISFIABLE
+c Solving Time(ms): 77.522
+s UNSATISFIABLE
+c Solving Time(ms): 80.101
+s SATISFIABLE
+c Solving Time(ms): 60.7
+s UNSATISFIABLE
+c Solving Time(ms): 62.081
+s SATISFIABLE
+c Solving Time(ms): 212.885
+s SATISFIABLE
+c Solving Time(ms): 93.772
+s UNSATISFIABLE
+c Solving Time(ms): 82.661
+s SATISFIABLE
+c Solving Time(ms): 59.921
+s UNSATISFIABLE
+c Solving Time(ms): 76.929
+s SATISFIABLE
+c Solving Time(ms): 83.398
+s SATISFIABLE
+c Solving Time(ms): 91.233
+s SATISFIABLE
+c Solving Time(ms): 86.217
+s SATISFIABLE
+c Solving Time(ms): 57.717
+s UNSATISFIABLE
+c Solving Time(ms): 81.506
+s SATISFIABLE
+c Solving Time(ms): 63.445
+s UNSATISFIABLE
+c Solving Time(ms): 102.556
+s SATISFIABLE
+c Solving Time(ms): 67.835
+s UNSATISFIABLE
+c Solving Time(ms): 100.283
+s SATISFIABLE
+c Solving Time(ms): 72.594
+s SATISFIABLE
+c Solving Time(ms): 101.833
+s UNSATISFIABLE
+c Solving Time(ms): 59.921
+s UNSATISFIABLE
+c Solving Time(ms): 78.302
+s SATISFIABLE
+c Solving Time(ms): 71.221
+s SATISFIABLE
+c Solving Time(ms): 61.205
+s SATISFIABLE
+c Solving Time(ms): 110.345
+s SATISFIABLE
+c Solving Time(ms): 68.787
+s SATISFIABLE
+c Solving Time(ms): 69.026
+s UNSATISFIABLE
+c Solving Time(ms): 61.517
+s UNSATISFIABLE
+c Solving Time(ms): 79.151
+s SATISFIABLE
+c Solving Time(ms): 91.574
+s SATISFIABLE
+c Solving Time(ms): 78.927
+s UNSATISFIABLE
+c Solving Time(ms): 80.989
+s SATISFIABLE
+c Solving Time(ms): 86.275
+s SATISFIABLE
+c Solving Time(ms): 60.157
+s UNSATISFIABLE
+c Solving Time(ms): 103.735
+s UNSATISFIABLE
+c Solving Time(ms): 130.97
+s UNSATISFIABLE
+c Solving Time(ms): 157.769
+s SATISFIABLE
+c Solving Time(ms): 67.675
+s UNSATISFIABLE
+c Solving Time(ms): 61.258
+s UNSATISFIABLE
+c Solving Time(ms): 91.494
+s SATISFIABLE
+c Solving Time(ms): 72.619
+s SATISFIABLE
+c Solving Time(ms): 62.069
+s UNSATISFIABLE
+c Solving Time(ms): 87.881
+s SATISFIABLE
+c Solving Time(ms): 70.82
+s SATISFIABLE
+c Solving Time(ms): 61.591
+s UNSATISFIABLE
+c Solving Time(ms): 59.23
+s UNSATISFIABLE
+c Solving Time(ms): 111.153
+s SATISFIABLE
+c Solving Time(ms): 139.073
+s SATISFIABLE
+c Solving Time(ms): 158.6
+s SATISFIABLE
+c Solving Time(ms): 82.3
+s SATISFIABLE
+c Solving Time(ms): 59.747
+s UNSATISFIABLE
+c Solving Time(ms): 80.301
+s SATISFIABLE
+c Solving Time(ms): 74.938
+s SATISFIABLE
